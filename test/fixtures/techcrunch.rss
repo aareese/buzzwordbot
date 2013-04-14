@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>TechCrunch</title>
+	
+	<link>http://techcrunch.com</link>
+	<description>TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web.</description>
+	<lastBuildDate>Sun, 14 Apr 2013 00:32:19 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain="techcrunch.com" port="80" path="/?rsscloud=notify" registerProcedure="" protocol="http-post" />
+<image><link>http://www.techcrunch.com</link><url>http://www.techcrunch.com/wp-content/themes/techcrunchmu/images/techcrunch_logo.png</url><title>TechCrunch</title></image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://techcrunch.com/osd.xml" title="TechCrunch" />
+	
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/Techcrunch" /><feedburner:info uri="techcrunch" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://techcrunch.com/?pushpress=hub" /><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/Techcrunch" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FTechcrunch" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site.</feedburner:browserFriendly>
+		<item>
+		<title>Bitcoin Miners Are Racking Up $150,000 A Day In Power Consumption Alone</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/sg74qTw0FY4/</link>
+		<comments>http://techcrunch.com/2013/04/13/the-cost-of-a-bitcoin/#comments</comments>
+		<pubDate>Sun, 14 Apr 2013 00:31:29 +0000</pubDate>
+		<dc:creator>Ryan Lawler</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[bitcoins]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798313</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/bitcoins.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="bitcoins" style="float: left; margin: 0 10px 7px 0;" />There's a gold rush going on these days, or a Bitcoin rush, at least. Driven by the <a href="http://techcrunch.com/2013/04/11/bitcoin/">recent swings in the value of a Bitcoin</a>, more and more people are learning about and becoming interested in the currency. While they could just buy Bitcoins at the current market rate, others are looking to try their luck at mining Bitcoins. And like prospectors who traveled west during the Gold Rush of the 19th century, many Bitcoin miners will find that they spend more on chasing the Bitcoin dream than they'll ever hope to win back.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/bitcoins.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="bitcoins" style="float: left; margin: 0 10px 7px 0;" /><p>There&#8217;s a gold rush going on these days, or a Bitcoin rush, at least. Driven by the <a href="http://techcrunch.com/2013/04/11/bitcoin/">recent swings in the value of a Bitcoin</a>, more and more people are learning about and becoming interested in the currency. While they could just buy Bitcoins at the current market rate, others are looking to try their luck at mining Bitcoins. And like prospectors who traveled west during the Gold Rush of the 19th century, many Bitcoin miners will find that they spend more on chasing the Bitcoin dream than they&#8217;ll ever hope to win back.</p>
+<p>As <a target="_blank" href="http://www.businessinsider.com/how-bitcoins-are-mined-and-used-2013-4#ixzz2QOFVvzQm">explained here</a>, Bitcoins are &#8220;mined&#8221; by unlocking blocks of data that &#8220;produce a particular pattern when the Bitcoin ‘hash’ algorithm is applied to the data.&#8221; It seems simple enough, but the cost of Bitcoin mining is greater than one might expect. The more Bitcoins are mined, the more difficult it becomes to find the next block. Unless the miner is using the latest specially-designed mining rigs, the computers used often sport high-end graphics cards (since the GPUs are more efficient than CPUs for mining application). And running those computers requires a lot of power.</p>
+<p><a target="_blank" href="http://blockchain.info/">Blockchain.info</a>, which tracks Bitcoin-related data, estimates that miners are <a target="_blank" href="http://blockchain.info/stats">using 1,005.59 megawatt hours of electrical consumption</a> each day in their pursuit of new blocks of Bitcoins. That ends up costing about $150,000 in power costs each day to mine the currency. [Hat tip to <a target="_blank" href="http://www.bloomberg.com/news/2013-04-12/virtual-bitcoin-mining-is-a-real-world-environmental-disaster.html">Bloomberg</a> for reporting on the data.] </p>
+<p>That may sound like a lot, but miners on average are making money. According to Blockchain, miners are generating $470,000 in Bitcoin-related revenue per day. In fact, due to the recent interest in the virtual currency and its popularity, <a target="_blank" href="http://blockchain.info/charts/miners-operating-profit-margin">operating margins for Bitcoin miners</a> are close to record highs.</p>
+<p>While it might be easy to look at those numbers and think it&#8217;s NBD to just like, extract value out of thin air, Bitcoin mining isn&#8217;t as lucrative as it seems. Regular users hoping to use their regular computers to mine shouldn&#8217;t expect to just start making money by setting aside a few compute cycles to dig up Bitcoins. That&#8217;s generally reserved for special mining computers that do nothing BUT mine for Bitcoins using custom encryption processors.</p>
+<p>As Biggs <a href="http://techcrunch.com/2013/04/08/how-to-mine-bitcoins/">points out in his article</a>, &#8220;While you could simply set a machine aside and have it run the algorithms endlessly, the energy cost and equipment deprecation will eventually cost more than the actual Bitcoins are worth.&#8221; That&#8217;s been confirmed by my colleague Matt Burns, who wrote in our internal message board that &#8220;after mining for a few days, the energy required to run my computer at full tilt was far greater than the Bitcoins I mined.&#8221;</p>
+<p>Even if you do choose to pool your resources to mine, it&#8217;s a fairly complicated process, even for tech-savvy users. Check out the aforementioned article by Biggs for how he connected his <a href="http://techcrunch.com/2013/04/08/how-to-mine-bitcoins/">home PCs into a Bitcoin-mining pool</a>. </p>
+<p>The alternative is to just <a target="_blank" href="http://www.butterflylabs.com/landing/">buy specialty hardware</a> designed to do nothing but mine for Bitcoins. Like any other investment, the return isn&#8217;t assured, and likely will be based on how Bitcoin market takes shape as time goes on. But right now, as with most gold rushes throughout history, it&#8217;s those who are supplying the miners that are finding the real riches.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798313/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=sg74qTw0FY4:3mlc51mew84:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=sg74qTw0FY4:3mlc51mew84:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=sg74qTw0FY4:3mlc51mew84:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=sg74qTw0FY4:3mlc51mew84:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=sg74qTw0FY4:3mlc51mew84:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=sg74qTw0FY4:3mlc51mew84:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=sg74qTw0FY4:3mlc51mew84:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=sg74qTw0FY4:3mlc51mew84:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/sg74qTw0FY4" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/the-cost-of-a-bitcoin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/bitcoins.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/bitcoins.jpg?w=150" medium="image">
+			<media:title type="html">bitcoins</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/3c5a6332c8200dfda8d15c74ebcc06d1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ryanlawler</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/the-cost-of-a-bitcoin/</feedburner:origLink></item>
+		<item>
+		<title>What Games Are: The Shady Side Of Games</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/PoUrG35aPz0/</link>
+		<comments>http://techcrunch.com/2013/04/13/what-games-are-the-shady-side-of-games/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 21:00:47 +0000</pubDate>
+		<dc:creator>Tadhg Kelly</dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[iOS games]]></category>
+		<category><![CDATA[mobile games]]></category>
+		<category><![CDATA[social games]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798293</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/800px-three_card_monte.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="800px-Three_Card_Monte" style="float: left; margin: 0 10px 7px 0;" />A lot of recent moves in the gaming space to ban, investigate or curtail certain aspects of its output can seem egregious. However seen in the light of how shady game makers tend to behave, and the need to keep their sleazy tactics at bay, such moves are often understandable. Still, there are costs to games as a medium that this sort of thing keeps happening.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/800px-three_card_monte.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="800px-Three_Card_Monte" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor’s note: </strong><em>Tadhg Kelly is a veteran game designer, creator of leading game design blog <a target="_blank" href="http://www.whatgamesare.com/">What Games Are</a> and creative director of Jawfish Games. You can follow him on Twitter <a target="_blank" href="https://twitter.com/tiedtiger">here</a>.</em></p>
+<p>There&#8217;s a reason why games and organized crime have often gone hand in hand. The thrill of the win, of achieving &#8211; often with money attached &#8211; has long proved a lure that society felt the need to control, like a drug. Games of chance, Poker, horse racing, sports betting and many others brought quixotic pleasures to many and bankruptcy (or worse) to some. There was always money to be made in the shadows for those happy to work in them.</p>
+<p>That shady aspect still exists in the games industry today. While there are some highly ethical game makers out there who conduct their business in a manner befitting their ideals, there are also plenty who dupe and deceive to profit from an audience. Some are merely morally gray, maintaining that since games are a tough market and <a target="_blank" href="http://venturebeat.com/2012/12/28/report-user-acquisition-costs-for-ios-shot-up-30-last-month/">the cost of user acquisition is high</a>, they have to be scrappy. Even if they don&#8217;t personally like it, it&#8217;s just how life is.</p>
+<p>But beyond that typical red-ocean thinking, you can always rely on some developer or publisher to eventually take things too far. Like water flowing into every nook and cranny of a given platform, some will use their powers for good while others will figure out how to use a game as a form of arbitrage to extract as much value as possible. And you may say &#8220;well that&#8217;s business&#8221;, which it sometimes is. Yet shady actions can have far wider impact across the industry than is generally realized.</p>
+<p>Take, for example, the practice of selling virtual goods in children&#8217;s games. Free-to-play games are very popular across all segments of the market, but the ability to sell items from within a game has the potential to deceive. While the notion of permitting players to financially participate as much as they want to is neat, many don&#8217;t fully realize what that means. Parents in particular are often unaware that their children know their iTunes passwords until big bills caused by their little angels buying <a target="_blank" href="http://www.telegraph.co.uk/technology/apple/9928381/Boy-runs-up-1000-bill-buying-virtual-doughnuts-on-iPad.html">$1000 worth of virtual game goods</a> surface. And good luck getting a refund.</p>
+<p>Because of course there are shady game makers out there who think it&#8217;s okay to put a $99 item in a game aimed at nine year olds. Of course they have an entirely self-reinforcing rationale for why this is permissible. Of course they use words like &#8220;choice&#8221; and &#8220;parental responsibility&#8221; to justify their actions. And yet they come across as weasels. In fact they ARE weasels. When this sort of nonsense goes on long enough, outsiders start to step in.</p>
+<p>Government agencies like the UK&#8217;s Office of Fair Trading are <a target="_blank" href="http://metro.co.uk/2013/04/12/free-to-play-games-could-be-illegal-warns-office-of-fair-trading-3613193/">starting to take a strong interest</a> in free-to-play games. The OFT is an official consumer advocate group whose judgements can be far-reaching, and their recommendations often form the basis of legislation designed to clean up particularly egregious industries. This may serve as a wake-up call for the industry to self-regulate before regulation comes a-calling, or it may just be the tip of the iceberg. If, for example, the United States&#8217; Department of Justice decides to do likewise, who knows how far that could go.</p>
+<p>The problem for most of us who make games is that shady tactics tend to poison the well. The difference between the ideal of Facebook games (play together) and the practice (notify and spam repeatedly) is why social games stalled, for example. What could have been the most amazing platform change in gaming in a generation instead became a haven for sleazy lowball tactics designed to make a quick buck or an exit sale. Facebook&#8217;s early (and continuing) mistake lay in not taking an active-enough hand in managing their platform, preferring to let evolution sort it out.</p>
+<p>The sale of crappy gamification &#8220;solutions&#8221; is another example. Through the work of writers like <a target="_blank" href="http://codingconduct.cc">Sebastian Deterding</a>, gamification has developed into a very interesting idea (with a variety of caveats, which I have written about before). Yet, regardless of where you stand on it, gamification has started to invert in large part because of the revelation that it mostly doesn&#8217;t work. There are many shady companies out there offering solutions that are little more than packs of GIFs and experience point tables, and of course that sours companies on trying gamification more than once.</p>
+<p>It&#8217;s for reasons like these that I tend to strongly support Apple&#8217;s firm stance in governing the App Store. To some writers (<a target="_blank" href="http://www.pocketgamer.biz/r/PG.Biz/App+Store/news.asp?c=50006">like my Twitter buddy Keith Andrew at Pocketgamer</a>), Apple&#8217;s control is only about maintaining profits and an iron-like grip on its customers, but I think there&#8217;s more to it than that. Apple takes an active hand in surfacing interesting apps because that&#8217;s important for the life of its platform, for the perception among users that iOS is where you go to find all the good stuff. The good stuff often needs a helping hand in the face of legions of developers hawking identical software with large advertising budgets.</p>
+<p>Apple also bans or forbids certain apps on the basis of not wanting to dilute that conversation. Apps are not permitted to look like app stores, for example, or to use push notifications to advertise. Apps are not permitted to use incentivized installs. Apps are not permitted to deceive, in other words, or at the very least this is strong discouraged. And Apple seems as though it&#8217;s about to crack down on a number of apps that have been treading softly in these areas without directly violating them.</p>
+<p>Apple seemed to realize early that shadiness would be problem that had to be curtailed or else the platform itself would be under threat. The risk to iOS of allowing it to be gamed or balkanized &#8211; as Facebook had &#8211; may not have been plainly apparent at the time, but in retrospect very much so. This is why the AppGratis-es of this world are heavily monitored. AppGratis appears to be just a typical example of needing to reign in wayward practices that would otherwise lead to bad places. Strong rules and enforcement is why iOS remains a vital development platform, and the one that users trust most. But of course, there are side effects.</p>
+<p>Chief among them is censorship. As a medium, gaming is trying to come out of its teenage years and stop being regarded as mere entertainment. Some game makers want to feel that they stand shoulder to shoulder with writers, moviemakers and musicians in being regarded as artists, but regulation gets in the way.</p>
+<p>In the old days it used to much worse. If you wanted to make games on a non-PC platform, such as a console, you had to factor in the risk that the platform might say no. The platform&#8217;s owners might not have even allowed you to have a dev kit to try unless your proposed game fit with their content strategy and guidelines.</p>
+<p>These days platforms rarely exercise that kind of power and game making has become much more democratic, but there&#8217;s still a ways to go. <a target="_blank" href="http://www.playsweatshop.com">Games like Sweatshop </a>are banned according to content guidelines that would be considered unthinkable in book or music markets. The burgeoning zinester movement (artists who create games and related interactive art to explore a variety of issues) feels unwelcome and unlikely to become an Editor&#8217;s Choice because their work is not exactly PG13.</p>
+<p>Unfortunately, like the Mob, shady game makers always be with us. There will always be someone who regards platforms like iOS as an opportunity to scavenge. There will always be someone who looks for the breaks, the wedges and the opportunity to behave like sharks. And they will always have a mealy mouthed rationale to justify their actions. None of us wants more censorship, or for games to be regulated to death. Most of us want the medium to thrive and grow and become as fully expressive. So as an industry it behoves us to establish codes of practice and police ourselves. Otherwise someone else will eventually do it for us.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798293/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PoUrG35aPz0:_CzYwhjwd9M:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PoUrG35aPz0:_CzYwhjwd9M:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PoUrG35aPz0:_CzYwhjwd9M:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PoUrG35aPz0:_CzYwhjwd9M:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=PoUrG35aPz0:_CzYwhjwd9M:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PoUrG35aPz0:_CzYwhjwd9M:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=PoUrG35aPz0:_CzYwhjwd9M:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=PoUrG35aPz0:_CzYwhjwd9M:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/PoUrG35aPz0" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/what-games-are-the-shady-side-of-games/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/800px-three_card_monte.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/800px-three_card_monte.jpg?w=150" medium="image">
+			<media:title type="html">800px-Three_Card_Monte</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/06916aaa92c89987b419c3d21fdacfe6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">tadhgk</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/what-games-are-the-shady-side-of-games/</feedburner:origLink></item>
+		<item>
+		<title>CrunchWeek: Bitcoin Mania, Foursquare Gets A Cash Infusion, And VCs Rally Around Google Glass</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/cO48XZl-wCs/</link>
+		<comments>http://techcrunch.com/2013/04/13/crunchweek-bitcoin-mania-foursquare-gets-a-cash-infusion-and-vcs-rally-around-google-glass/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 18:30:58 +0000</pubDate>
+		<dc:creator>Colleen Taylor</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[crunchweek]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798225</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-13-at-12-29-44-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2013-04-13 at 12.29.44 AM" style="float: left; margin: 0 10px 7px 0;" />The weekend is finally here, and so is another episode of <a href="http://techcrunch.com/video/crunchweek/">CrunchWeek</a>, the TechCrunch TV show where a few of us writers sit down for some real talk about the stories that dominated the tech world over the past seven days.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-13-at-12-29-44-am.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2013-04-13 at 12.29.44 AM" style="float: left; margin: 0 10px 7px 0;" /><p><script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&#038;width=640&#038;height=450&#038;colorPallet=%230A9600&#038;hasCompanion=false&#038;relatedMode=2&#038;videoControlDisplayColor=%23000000&#038;playList=517742930&#038;shuffle=0&#038;videoGroupID=133503&#038;autoStart=false&#038;playerActions=16407"></script><br />
+The weekend is finally here, and so is another episode of <a href="http://techcrunch.com/video/crunchweek/">CrunchWeek</a>, the TechCrunch TV show where a few of us writers sit down for some real talk about the stories that dominated the tech world over the past seven days.</p>
+<p>This time, <a href="http://techcrunch.com/author/leena-rao/">Leena Rao</a>, <a href="http://techcrunch.com/author/anthony-ha/">Anthony Ha</a> and I talked about the relentless (and tumultuous) rise of <a href="http://techcrunch.com/2013/04/11/bitcoin/">the Bitcoin</a>, Foursquare finally closing on the funding round we&#8217;d been <a href="http://techcrunch.com/2012/11/02/foursquare-looks-into-a-hefty-fourth-round-some-investors-skeptical/">hearing about</a> with its <a href="http://techcrunch.com/2013/04/11/foursquares-new-series-d-round-of-41m-helps-it-delay-tricky-questions-about-its-valuation/">$41 million convertible debt raise</a>, and three superpower VCs teaming up to launch the <a href="http://techcrunch.com/2013/04/10/the-glass-collective-is-born/">Glass Collective</a> (and that <a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2013/04/glass-collective.jpg?w=300">amazing photo</a> that came along with it.)</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798225/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cO48XZl-wCs:D6us55QFHl4:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cO48XZl-wCs:D6us55QFHl4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cO48XZl-wCs:D6us55QFHl4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cO48XZl-wCs:D6us55QFHl4:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=cO48XZl-wCs:D6us55QFHl4:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cO48XZl-wCs:D6us55QFHl4:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=cO48XZl-wCs:D6us55QFHl4:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=cO48XZl-wCs:D6us55QFHl4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/cO48XZl-wCs" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/crunchweek-bitcoin-mania-foursquare-gets-a-cash-infusion-and-vcs-rally-around-google-glass/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-13-at-12-29-44-am.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-13-at-12-29-44-am.png?w=150" medium="image">
+			<media:title type="html">Screen Shot 2013-04-13 at 12.29.44 AM</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/4978d78871dc3ed1a4264d051e6c9193?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">colleentechcrunch</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/crunchweek-bitcoin-mania-foursquare-gets-a-cash-infusion-and-vcs-rally-around-google-glass/</feedburner:origLink></item>
+		<item>
+		<title>Warby Parker Opens Retail Store In NYC, With Boston Up Next, Beats Google &amp; Amazon To The Offline Punch</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/1nvHvji694g/</link>
+		<comments>http://techcrunch.com/2013/04/13/warby-parker-opens-retail-store-in-nyc-with-boston-up-next-beats-google-amazon-to-the-offline-punch/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 17:29:34 +0000</pubDate>
+		<dc:creator>Rip Empson</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Warby Parker]]></category>
+		<category><![CDATA[eCommerce]]></category>
+		<category><![CDATA[eTail]]></category>
+		<category><![CDATA[e-tail]]></category>
+		<category><![CDATA[retail]]></category>
+		<category><![CDATA[eyewear]]></category>
+		<category><![CDATA[glasses]]></category>
+		<category><![CDATA[online brands]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798145</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/tumblr_inline_ml5dr64hrp1qz4rgp.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tumblr_inline_ml5dr64HRp1qz4rgp" style="float: left; margin: 0 10px 7px 0;" />Hip online eyewear startup Warby Parker has, over the last two years, been partnering with boutiques to open "stores-within-stores," or small Warby Parker showrooms, where customers could try on their eyeglasses in 3-D. These showrooms popped up in L.A., Nashville, San Francisco and many others. Today Warby Parker <a target="_blank" href="http://blog.warbyparker.com/post/47783604997/welcome-to-121-greene">officially announced its first, flagship retail store</a> in SoHo in New York City.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/tumblr_inline_ml5dr64hrp1qz4rgp.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="tumblr_inline_ml5dr64HRp1qz4rgp" style="float: left; margin: 0 10px 7px 0;" /><p>Hip online eyewear startup Warby Parker has, over the last two years, been partnering with boutiques to open &#8220;stores-within-stores,&#8221; or small Warby Parker showrooms, where customers could try on their eyeglasses in 3-D. These showrooms popped up in L.A., Nashville, San Francisco and many others. Today Warby Parker&nbsp;<a target="_blank" href="http://blog.warbyparker.com/post/47783604997/welcome-to-121-greene">officially announced its first, flagship retail store</a>&nbsp;in SoHo in New York City.</p>
+<p>As e-commerce has matured, some of its younger companies have <a target="_blank" href="http://allthingsd.com/20121121/venture-backed-commerce-sites-banking-on-tv-ads-to-lure-big-audiences/">begun to turn</a> to more traditional forms of advertising. One Kings Lane, Gilt Groupe, Beachmint, Fab and Wayfair are just a few of the boutique online brands to launch ad campaigns on TV in the last six months in an effort to drive viewers to mobile apps and sites.</p>
+<p>Now, if Warby Parker is any indication, e-commerce companies may continue to expand their businesses by moving offline and building their own brick-and-mortar retail outlets. Amazon CEO Jeff Bezos has <a target="_blank" href="http://news.cnet.com/8301-1023_3-57551081-93/jeff-bezos-we-would-love-to-open-amazon-retail-stores/">expressed interest before</a>, while 9to5Google reports that Google is looking to <a target="_blank" href="http://9to5google.com/2013/02/15/to-get-products-into-more-hands-google-will-open-its-own-stores-by-the-end-of-the-year/">open retail stores in time for the holidays</a>.&nbsp;Warby Parker doesn&#8217;t quite have that kind of market cap, but clearly it wants to go head-to-head with the biggest offline retailers.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2013/04/tumblr_inline_ml5drgq2sc1qz4rgp.jpg"></a></p>
+<p>Interestingly, Warby Parker was founded in part because (at the time) less than 1 percent of eyewear was sold online, so the startup hoped to take on the bigs like <a target="_blank" href="http://en.wikipedia.org/wiki/Luxottica">Luxottica</a> &#8212; which owns the seemingly ubiquitous LensCrafters, Ray-Ban, Sunglass Hut and Oakley, among others &#8212; by creating a strong, fashion-conscious brand and selling online at a lower price and better margins. It worked, and the startup made a name for itself, and started to catch the attention of consumers and investors.</p>
+<p>Warby closed a $41.5 million investment at the end of February, led in part by J. Crew CEO Millard S. Drexler (who was formerly CEO of Gap and currently has an awesome name) and American Express, along with a host of VCs. With heavy backing from the retail world, and a growing number of showrooms, the company is now experimenting more aggressively with its offline push. But it&#8217;s trying to transfer the same academic aesthetic/brand offline while keeping a little bit of the tech.</p>
+<p>Its new flagship store in NYC is designed to look like a classic, old library &#8212; the New York Public Library, really &#8212; with brass library lamps, rolling ladders and musty books. The whole deal. In a way, it feels a little pretentious, but it&#8217;s also awesome and makes sense given the product; you use your glasses to read, nerd &#8212; sometimes even things besides the Internet.</p>
+<p>And in fact, it&#8217;s almost the opposite. Rather than keep its eyewear behind glass, the startup&#8217;s new store leaves its glasses out in the open to be taken for a test drive. The store also includes an in-house optometrist for on-hand, $50 eye exams offered seven days a week. Non-prescription glasses will be sold for take-away, and customers can choose to receive products by mail or to pick them up at the store.</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2013/04/tumblr_inline_ml5dqw7p7j1qz4rgp.jpg"></a></p>
+<p>That might seem like superfluous information for those not living in the five boroughs, but it appears that the startup is already taking its brick-and-mortar retail strategy beyond NYC. <a target="_blank" href="http://www.bizjournals.com/boston/blog/mass_roundup/2013/04/warby-parker-boston-store.html">As Boston Business Journal recently reported</a>, Warby has listed a job posting for a <a target="_blank" href="http://jobs.warbyparker.com/apply/7MxEKS/Store-Leader-Boston.html">&#8220;store leader&#8221; in Beantown</a>, seeking someone with &#8220;sales management experience with a customer-focused, operationally excellent retailer &#8230; to build a team of exceptional team members.&#8221; And they&#8217;re also hiring an in-store <a target="_blank" href="http://jobs.warbyparker.com/apply/FKSgIM/Optician-Boston.html">optician</a>. You don&#8217;t have to live at 221B Baker Street to put those pieces together, amirite?</p>
+<p>But the other key to Warby Parker&#8217;s new offline strategy, as Om describes <a target="_blank" href="http://gigaom.com/2013/04/12/why-a-warby-parker-flagship-retail-store-is-a-big-moment-for-online-brands-co-founder-on-video/">in his coverage today</a>, is that the company wants to bring more tech into the offline world by wiring its stores to collect data. Using Wi-Fi, sensors, etc., it wants to get a better understanding of how people shop, what the trends are both in terms of in-store flow and customer design and product preferences, for example. The more they can bring smart data collection methods offline, the more business intelligence they can glean &#8212; especially when, as Om points out, it&#8217;s combined with insight from online shopping data.</p>
+<p>It may be too early to say that the eyewear startup is at the tip of an online-to-offline retail wave about to sweep through e-commerce &#8212; not really sure I see that happening yet &#8212; but it is also far from being counterintuitive. Create a strong, hip brand online, generate brand recognition and revenue, get a foothold on the market, and <em>then</em> move offline. It seems like a familiar playbook, even if it isn&#8217;t.</p>
+<p>[Photo credits: <a target="_blank" href="http://collin-hughes.com/">Collin Hughes</a>]</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798145/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1nvHvji694g:zhxQ2MNvyAM:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1nvHvji694g:zhxQ2MNvyAM:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1nvHvji694g:zhxQ2MNvyAM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1nvHvji694g:zhxQ2MNvyAM:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=1nvHvji694g:zhxQ2MNvyAM:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1nvHvji694g:zhxQ2MNvyAM:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=1nvHvji694g:zhxQ2MNvyAM:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=1nvHvji694g:zhxQ2MNvyAM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/1nvHvji694g" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/warby-parker-opens-retail-store-in-nyc-with-boston-up-next-beats-google-amazon-to-the-offline-punch/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/tumblr_inline_ml5dr64hrp1qz4rgp.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/tumblr_inline_ml5dr64hrp1qz4rgp.jpg?w=150" medium="image">
+			<media:title type="html">tumblr_inline_ml5dr64HRp1qz4rgp</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/a94f6b72a8ee7342e862c1c9d6c5b826?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">rempson8</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/tumblr_inline_ml5drgq2sc1qz4rgp.jpg" medium="image">
+			<media:title type="html">tumblr_inline_ml5drgQ2sc1qz4rgp</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/tumblr_inline_ml5dqw7p7j1qz4rgp.jpg" medium="image">
+			<media:title type="html">tumblr_inline_ml5dqw7p7j1qz4rgp</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/warby-parker-opens-retail-store-in-nyc-with-boston-up-next-beats-google-amazon-to-the-offline-punch/</feedburner:origLink></item>
+		<item>
+		<title>Gillmor Gang: Speculation, Music, Death</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/BUKFRea1z64/</link>
+		<comments>http://techcrunch.com/2013/04/13/gillmor-gang-speculation-music-death/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 17:00:08 +0000</pubDate>
+		<dc:creator>Steve Gillmor</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Gillmor Gang]]></category>
+		<category><![CDATA[@stevegillmor]]></category>
+		<category><![CDATA[@jtaschek]]></category>
+		<category><![CDATA[@kteare]]></category>
+		<category><![CDATA[@kevinmarks]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Twitter Music]]></category>
+		<category><![CDATA[AirPlay]]></category>
+		<category><![CDATA[iradio]]></category>
+		<category><![CDATA[@tinagillmor]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798129</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/04/gillmor-gang-test-pattern_excerpt.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gillmor-gang-test-pattern_excerpt" style="float: left; margin: 0 10px 7px 0;" />The Gillmor Gang — Kevin Marks, John Taschek, Keith Teare, and Steve Gillmor — spared no expense to bring you the finest in up-to-date tech commentary. In other words, we tore into Twitter Music, ignored Facebook Home, dissected the internals of AirPlay, and cashed our Bitcoin checks. Our attention is a zero sum game, and whether it&#8217;s West Wing or Twitter pointers into the musicsphere, how we make our streaming choices will determine who the big winners are. What we&#8217;re really waiting for is the tipping point when the streamer artists crossover and recapture the idea that the creators are the real coin of the realm. @stevegillmor, @kteare, @kevinmarks, @jtaschek Produced and directed by Tina Chase Gillmor @tinagillmor]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2011/04/gillmor-gang-test-pattern_excerpt.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gillmor-gang-test-pattern_excerpt" style="float: left; margin: 0 10px 7px 0;" /><script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&#038;width=640&#038;height=450&#038;colorPallet=%230A9600&#038;hasCompanion=false&#038;relatedMode=2&#038;videoControlDisplayColor=%23000000&#038;playList=517743382&#038;shuffle=0&#038;videoGroupID=133503&#038;autoStart=false&#038;playerActions=16407"></script>
+<p>The Gillmor Gang — Kevin Marks, John Taschek, Keith Teare, and Steve Gillmor — spared no expense to bring you the finest in up-to-date tech commentary. In other words, we tore into Twitter Music, ignored Facebook Home, dissected the internals of AirPlay, and cashed our Bitcoin checks.</p>
+<p>Our attention is a zero sum game, and whether it&#8217;s West Wing or Twitter pointers into the musicsphere, how we make our streaming choices will determine who the big winners are. What we&#8217;re really waiting for is the tipping point when the streamer artists crossover and recapture the idea that the creators are the real coin of the realm.</p>
+<p>@stevegillmor, @kteare, @kevinmarks, @jtaschek</p>
+<p>Produced and directed by Tina Chase Gillmor @tinagillmor</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798129/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BUKFRea1z64:RKRGOc8uxQk:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BUKFRea1z64:RKRGOc8uxQk:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BUKFRea1z64:RKRGOc8uxQk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BUKFRea1z64:RKRGOc8uxQk:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=BUKFRea1z64:RKRGOc8uxQk:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BUKFRea1z64:RKRGOc8uxQk:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=BUKFRea1z64:RKRGOc8uxQk:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=BUKFRea1z64:RKRGOc8uxQk:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/BUKFRea1z64" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/gillmor-gang-speculation-music-death/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2011/04/gillmor-gang-test-pattern_excerpt.jpeg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2011/04/gillmor-gang-test-pattern_excerpt.jpeg?w=150" medium="image">
+			<media:title type="html">gillmor-gang-test-pattern_excerpt</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/e819990a43a5972b40593cdc6896eef9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">steve</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/gillmor-gang-speculation-music-death/</feedburner:origLink></item>
+		<item>
+		<title>Revel Body Is A Crowdfunded Personal Massager</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/rDj1wpcR_RY/</link>
+		<comments>http://techcrunch.com/2013/04/13/revel-body-is-a-crowdfunded-personal-massager/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 16:30:13 +0000</pubDate>
+		<dc:creator>John Biggs</dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[vibrators]]></category>
+		<category><![CDATA[Crowdfunding]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798277</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-13-at-12-02-51-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2013-04-13 at 12.02.51 PM" style="float: left; margin: 0 10px 7px 0;" />Do you suffer from "sore elbows, wrists and hands from having to hold small and awkward shapes?" Have you found that "products are confusing to impossible to control?" Do you know what a phthalates is and are you embarrassed by the packaging of your favorite personal massager products? Has <a target="_blank" href="http://www.indiegogo.com/projects/revel-body-the-first-sonic-vibrator">Revel Body</a> got a product for you.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-13-at-12-02-51-pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screen Shot 2013-04-13 at 12.02.51 PM" style="float: left; margin: 0 10px 7px 0;" /><p>Do you suffer from &#8220;sore elbows, wrists and hands from having to hold small and awkward shapes?&#8221; Have you found that &#8220;products are confusing to impossible to control?&#8221; Do you know what a phthalates is and are you embarrassed by the packaging of your favorite personal massager products? Has <a target="_blank" href="http://www.indiegogo.com/projects/revel-body-the-first-sonic-vibrator">Revel Body</a> got a product for you.</p>
+<p>This crowdfunded project aims to make your alone time (or time spent with friends) more rewarding. The product, essentially a sonic vibrator, is designed for ladies and, presumably, men. The team, led by Robin Elenga, has created a high-frequency system for offering a better &#8220;buzz&#8221; during those moments when you&#8217;re visiting the Palms Hotel.</p>
+<p>The product offers &#8220;50 percent more power&#8221; and &#8220;400 percent vibration range&#8221; and reduces the vibrations felt in the hand and focuses those vibrations on sore muscles and/or your vagina.</p>
+<p>The product uses a resonating motor to offer a larger range of vibration speeds and sensations and it&#8217;s shaped like a tennis ball to reduce the strain on wrists and other body parts. It&#8217;s run on a rechargeable battery that connects to any USB port and offers nearly silent operation, unlike similar linear-motor-powered vibrators. Because it doesn&#8217;t exactly look like a traditional vibrator you could even put it in a place of honor on your bedside table or office desk.</p>
+<div class='embed-vimeo' style='text-align:center;'><iframe src='http://player.vimeo.com/video/61058337' width='400' height='300' frameborder='0'></iframe></div>
+<p>The vibrator comes (to your house) for a pledge of $140. You can get two for $220. They are hoping to raise $50,000 and are nearly there so they just need that extra push to get them over the edge. I suppose, given the circumstances, we should probably help them out.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798277/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=rDj1wpcR_RY:HwYtKqy4JVc:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=rDj1wpcR_RY:HwYtKqy4JVc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=rDj1wpcR_RY:HwYtKqy4JVc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=rDj1wpcR_RY:HwYtKqy4JVc:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=rDj1wpcR_RY:HwYtKqy4JVc:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=rDj1wpcR_RY:HwYtKqy4JVc:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=rDj1wpcR_RY:HwYtKqy4JVc:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=rDj1wpcR_RY:HwYtKqy4JVc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/rDj1wpcR_RY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/revel-body-is-a-crowdfunded-personal-massager/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-13-at-12-02-51-pm.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-13-at-12-02-51-pm.png?w=150" medium="image">
+			<media:title type="html">Screen Shot 2013-04-13 at 12.02.51 PM</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c0a943f484a32e62ed3bc81dd0dd25da?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">john</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/revel-body-is-a-crowdfunded-personal-massager/</feedburner:origLink></item>
+		<item>
+		<title>Through The Looking Glass: Hiring Sales People</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/9AwbEGJlI5s/</link>
+		<comments>http://techcrunch.com/2013/04/13/through-the-looking-glass-hiring-sales-people-2/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 15:00:03 +0000</pubDate>
+		<dc:creator>Ben Horowitz</dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=797329</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/alice.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="alice" style="float: left; margin: 0 10px 7px 0;" /><b>Editor’s note:</b> <em>Ben Horowitz is co-founder and partner of Andreessen Horowitz.</em> 
+
+Perhaps the most common mistake that I see a technical founder make when building her sales organization is that she applies strategies to the sales-hiring process that work when building the engineering team. This may sound shocking, but sales people are different from engineers, and treating them like engineers does not work well at all.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/alice.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="alice" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor’s note:</strong> <em>Ben Horowitz is co-founder and partner of <a target="_blank" href="http://a16z.com/">Andreessen Horowitz</a>. He was co-founder and CEO of Opsware (formerly Loudcloud), which was acquired by HP, and ran several product divisions at Netscape. He serves on the board of companies such as Capriza, Foursquare, Jawbone, Lytro, Magnet, NationBuilder, Okta, Rap Genius, SnapLogic and Tidemark. Follow him on his <a target="_blank" href="http://bhorowitz.com/">blog</a> and on Twitter <a target="_blank" href="https://twitter.com/bhorowitz">@bhorowitz</a>.</em>
+<p style="text-align:center;"><em>“He&#8217;s a big bad wolf in your neighborhood</em><br /> <em> Not bad meaning bad, but bad meaning good”</em><br /> —Run DMC, <i>Peter Piper</i></p>
+<p>Perhaps the most common mistake that I see a technical founder make when building her sales organization is that she applies strategies to the sales-hiring process that work when building the engineering team. This may sound shocking, but sales people are different from engineers, and treating them like engineers does not work well at all.</p>
+<p>It starts with the hiring process. If you attempt to hire sales people using the same assumptions that worked with engineering, then here are some of the things that will go wrong.</p>
+<h5>The Interview</h5>
+<p>A good engineering interview will include some set of difficult problems to solve. It might even require that the candidate write a short program. In addition, it will test the candidate’s knowledge of the tools she uses in great depth. A small portion of the interview may address personality traits, but smart managers will tolerate a very wide variety of personalities to find the best engineers.</p>
+<p>A good sales interview is the opposite. You can quiz them on hard sales problems all day long, but only a horrible sales rep won’t be able to bluff her way through the most intricate quiz on how to sell a complex account. On the other hand, great sales people tend to have very specific personality traits. Specifically, they must be courageous, competitive and hungry. They also need enough intelligence to get the job done. That’s the magic formula. Hire engineers with that profile and you’ll fail. Hire sales people who are really smart problem solvers, but lack courage, hunger and competitiveness, and your company will go out of business.</p>
+<p>Dick Harrison, CEO of <a target="_blank" href="http://en.wikipedia.org/wiki/Parametric_Technology_Corporation">Parametric Technologies</a>, home of perhaps the greatest enterprise sales force ever built, interviewed Mark Cranney, the greatest sales manager I have ever met, as follows:</p>
+<p><b>Dick: I&#8217;ll bet you got into a lot of fights when you were a youth didn&#8217;t you?</p>
+<p></b><b>Mark:</b> Well yes, Dick, I did get into a few.</p>
+<p><b>Dick:</b> Well, how&#8217;d you do?</p>
+<p><b>Mark:</b> Well, I was about 35-1.</p>
+<p><b>Dick:</b> Tell me about the 1.</p>
+<p>Mark tells him the story, which Dick enjoys immensely.</p>
+<p><b>Dick:</b> Do you think you could kick my ass?</p>
+<p>Mark pauses and asks himself: “Is Dick questioning my courage or my intelligence?” Then replies: “Could or would?”</p>
+<p>Dick hires Mark on the spot.</p>
+<p>Ask an engineer that same set of questions and at best she’d be confused, and at worst she’d be horrified. By asking Mark those questions, Dick quickly found out:</p>
+<ul>
+<li>Whether Mark had the courage to stay in the box and not get flustered;</li>
+<li>That Mark came from a rough environment and was plenty hungry;</li>
+<li>That Mark was super competitive, but smart enough to calculate his answer.</li>
+</ul>
+<p>Hiring sales people is different.</p>
+<h5>The Background</h5>
+<p>When screening engineers from other companies, its smart to value engineers from great companies more than those from mediocre companies. All things being equal, always interview the Google engineer over the Quest Software engineer. Why? Because, as an engineer, you have to be way better to get a job at Google than at Quest. In addition, Google’s engineering environment and techniques are state-of-the-art, so engineers who come from there will be well trained in an environment with high standards.</p>
+<h3 style="clear:both;margin-left:5px;margin-bottom:5px;width:250px;float:right;color:#0a9400;">anybody with a pulse can sell a massively winning product</h3>
+<p>In contrast, anybody with a pulse can sell a massively winning product like Google Ads or VMware hypervisors, but people who consistently sold Lanier copiers against Xerox were elite. In fact, it might be a good sign that a sales rep was successful at a bad company. To succeed at selling a losing product, you must develop seriously superior sales techniques. In addition, you have to be massively competitive and incredibly hungry to survive in that environment.</p>
+<h5>The Cost of Making a Mistake</h5>
+<p>Great engineering organizations strive never to make hiring mistakes, because hiring mistakes can be very costly. Not only do you lose the productivity that you might have gained from the hire, but you might well incur severe technical debt. To make matters worse, even when an engineering manager recognizes she’s made a mistake, she’s often slow to correct it, leading to more debt and delay. In addition, building an engineering organization too quickly will cause all kinds of communication issues, which makes slow hiring in engineering a really smart thing to do.</p>
+<p>On the other hand, you often can’t afford to build out your sales force too slowly, especially if you have significant competition. Sales people, when compared to engineers, work in relative isolation, so there’s productivity loss, but relatively little long-term debt or fast growth issues. Sales managers generally don’t have issues with firing poor performers, so sales people go fast. I have a friend who was fond of saying, “We have two kinds of sales people: rich and new.”</p>
+<h5>The Conclusion</h5>
+<p>Applying engineer-oriented hiring techniques to fill out a sales organization is like eating poison ivy to get more green vegetables. You will get the opposite of what you want.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/797329/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9AwbEGJlI5s:uSRocZgW2No:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9AwbEGJlI5s:uSRocZgW2No:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9AwbEGJlI5s:uSRocZgW2No:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9AwbEGJlI5s:uSRocZgW2No:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=9AwbEGJlI5s:uSRocZgW2No:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9AwbEGJlI5s:uSRocZgW2No:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=9AwbEGJlI5s:uSRocZgW2No:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9AwbEGJlI5s:uSRocZgW2No:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/9AwbEGJlI5s" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/through-the-looking-glass-hiring-sales-people-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/alice.jpg?w=119" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/alice.jpg?w=119" medium="image">
+			<media:title type="html">alice</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2a014e70509390133a9b9073671a2e8d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">tcbucket</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/through-the-looking-glass-hiring-sales-people-2/</feedburner:origLink></item>
+		<item>
+		<title>Hailo, SideCar, And The New York Taxi And Limousine Commission To Discuss The Future Of Transportation At Disrupt NY 2013</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/6GQYfZsm3x0/</link>
+		<comments>http://techcrunch.com/2013/04/13/hailo-sidecar-and-the-new-york-taxi-and-limousine-commission-to-discuss-the-future-of-transportation-at-disrupt-ny-2013/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 14:02:28 +0000</pubDate>
+		<dc:creator>Ryan Lawler</dc:creator>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[SideCar]]></category>
+		<category><![CDATA[hailo]]></category>
+		<category><![CDATA[Disrupt]]></category>
+		<category><![CDATA[uber]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798128</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/6149151684_2477631daf_z.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6149151684_2477631daf_z" style="float: left; margin: 0 10px 7px 0;" />In the coming weeks, the New York Taxi and Limousine Commission is expected to enter into its first trial of taxi e-hail apps. That'll allow startups like <a target="_blank" href="http://www.crunchbase.com/company/hailo">Hailo</a> that help users find nearby cabs through their mobile phones, without having to hail them from the street. At the same time, competition is coming from services like <a target="_blank" href="http://www.crunchbase.com/company/side-cr">SideCar</a>, which enables passengers to find rides from community drivers.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/6149151684_2477631daf_z.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="6149151684_2477631daf_z" style="float: left; margin: 0 10px 7px 0;" /><p>In the coming weeks, the New York Taxi and Limousine Commission is expected to enter into its first trial of taxi e-hail apps. That&#8217;ll allow startups like <a target="_blank" href="http://www.crunchbase.com/company/hailo">Hailo</a> that help users find nearby cabs through their mobile phones, without having to hail them from the street. At the same time, competition is coming from services like <a target="_blank" href="http://www.crunchbase.com/company/side-cr">SideCar</a>, which enables passengers to find rides from community drivers.</p>
+<p>All these changes will have a significant impact not just on consumers &#8212; who will soon have more choices than ever &#8212; but on the entire urban transportation industry. There&#8217;s the question of how regulators view the safety of mobile, on-demand transportation services, particularly those which provide rides from drivers without commercial licenses. There&#8217;s also the difficult balance between regulation and innovation, particularly as the taxi industry seeks to compete with the convenience provided by technology startups like Uber? </p>
+<p>At <a href="http://techcrunch.com/events/disrupt-ny-2013/event-info/">Disrupt NY 2013</a>, I&#8217;ll be talking about some of the companies involved in this transition, as well as the local regulatory agency which oversees them, to discuss how these apps will reshape the way we think about getting around cities like New York.</p>
+<p>I&#8217;ll be joined by NY TLC Deputy Commissioner Ashwini Chhabra, who will present the side of the regulators in this debate. Over the last year, he&#8217;s been working with local taxi companies, tech startups, and technology providers, to make supporting e-hail applications a reality in the city.</p>
+<p>We&#8217;ll also have <a target="_blank" href="http://www.crunchbase.com/person/jay-bregman">Jay Bregman</a>, CEO of taxi e-hail startup Hailo. Already operating a wildly popular service in the U.K., Hailo will be one of the first apps to take advantage of the TLC&#8217;s new e-hail rules. Prior to founding Hailo, Bregman was the founder and CTO of eCourier.co.uk, a company which used GPS for an intelligent dispatch system.</p>
+<p>And rounding out our panel will be <a target="_blank" href="http://www.crunchbase.com/person/sunil-paul">Sunil Paul</a>, CEO of ride-sharing startup SideCar. After a successful run in San Francisco, SideCar is aggressively expanding into other markets, including Brooklyn, N.Y. Prior to founding SideCar, this tech veteran had co-founded companies like FreeLoader and anti-spam leader Brightmail, and has also been an investor in a number of cleanweb technologies and startups.</p>
+<hr />
+<p><a target="_blank" href="http://www.crunchbase.com/person/jay-bregman">Jay Bregman</a><br />
+Founder &amp; CEO, <a target="_blank" href="http://www.crunchbase.com/company/hailo">Hailo</a></p>
+<p>Jay Bregman is the Founder / CEO of Hailo &#8211; a network that matches passengers and licensed taxi drivers using a tool which helps to make cabbies’ days more sociable &#8211; and profitable. Hailo has raised $50M in investment from an all-star cast of investors including Union Square Ventures, Accel Partners, Wellington Partners, Atomico Ventures, Richard Branson and KDDI. Together they’ve funded Facebook, Foursquare, Twitter and Tumblr, founded Skype, and brought loads of other fanatistic companies to life all over the world.</p>
+<p>Previously Jay founded eCourier.co.uk which was voted London’s most inspirational business by the Evening Standard in 2007. He holds a B.A. from Dartmouth College and an MSc from the London School of Economics. Jay was named on the Times’ 100 People to Watch in 2012.</p>
+<p>He now lives in New York City managing Hailo’s North American expansion.</p>
+<hr />
+<p><a target="_blank" href="http://www.crunchbase.com/person/sunil-paul">Sunil Paul</a><br />
+CEO, <a target="_blank" href="http://www.crunchbase.com/company/side-cr">Side.Cr</a></p>
+<p>Sunil Paul is co-founder and CEO of rideshare community SideCar. SideCar has operations in San Francisco, Seattle, Philadelphia, Austin, Los Angeles, Boston, Chicago and Brooklyn, NY. Sunil coined the term “cleanweb” to describe the aggressive application of social, mobile, and Internet media to accelerate cleantech deployment and restructure sectors as diverse as hotels, automobiles, agriculture and food, clothing, buildings, lighting and renewable finance. SideCar is a realization of Sunil’s cleanweb vision.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798128/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6GQYfZsm3x0:9ZfDvFiYQVs:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6GQYfZsm3x0:9ZfDvFiYQVs:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6GQYfZsm3x0:9ZfDvFiYQVs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6GQYfZsm3x0:9ZfDvFiYQVs:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=6GQYfZsm3x0:9ZfDvFiYQVs:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6GQYfZsm3x0:9ZfDvFiYQVs:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=6GQYfZsm3x0:9ZfDvFiYQVs:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=6GQYfZsm3x0:9ZfDvFiYQVs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/6GQYfZsm3x0" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/hailo-sidecar-and-the-new-york-taxi-and-limousine-commission-to-discuss-the-future-of-transportation-at-disrupt-ny-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/6149151684_2477631daf_z.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/6149151684_2477631daf_z.jpg?w=150" medium="image">
+			<media:title type="html">6149151684_2477631daf_z</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/3c5a6332c8200dfda8d15c74ebcc06d1?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ryanlawler</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/28274v10-max-250x250.png" medium="image">
+			<media:title type="html">28274v10-max-250x250</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/51449v3-max-250x250.jpg" medium="image">
+			<media:title type="html">51449v3-max-250x250</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/hailo-sidecar-and-the-new-york-taxi-and-limousine-commission-to-discuss-the-future-of-transportation-at-disrupt-ny-2013/</feedburner:origLink></item>
+		<item>
+		<title>Beyond The Bitcoin Bubble</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/RSk6cKxXP1o/</link>
+		<comments>http://techcrunch.com/2013/04/13/beyond-the-bitcoin-bubble/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 13:00:36 +0000</pubDate>
+		<dc:creator>Jon Evans</dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[Opinion]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[zerocoin]]></category>
+		<category><![CDATA[Ripple]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=797559</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/balloons-2.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="balloons-2" style="float: left; margin: 0 10px 7px 0;" />A few months ago, while visiting a hacker friend's magnificent new San Francisco loft, he gestured to a little alcove stuffed with server racks and said: "And over there are the Bitcoin mines." I smiled and nodded, thinking, <i>Oh, right, Bitcoin. Is that still a thing?</i>
+
+Andy, if you're reading this, I apologize. Is it ever, and how. Over the last few weeks the hype around everyone's favorite distributed cryptographic currency has gone <i>insane</i>. It's <a target="_blank" href="http://www.slate.com/articles/news_and_politics/view_from_chicago/2013/04/bitcoin_is_a_ponzi_scheme_the_internet_currency_will_collapse.html">a Ponzi scheme</a>; no, it's the first instance of the <a target="_blank" href="http://nonchalantrepreneur.com/post/46485623457/three-eras-of-currency">third era of currency</a>; no, it will <a target="_blank" href="http://www.slate.com/blogs/moneybox/2013/04/10/bitcoin_s_deflation_problem.html">spiral up and down forever</a>; no, it's <a href="http://techcrunch.com/2013/04/11/bitcoin/">the new venture-capital frontier</a>; no, it's an <a target="_blank" href="http://www.bloomberg.com/news/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state.html">existential threat to the modern state</a>.
+
+No, possibly, conceivably, maybe, and no. But: I realized this week that Bitcoin actually <i>is</i> a really big deal -- in a way that's been almost entirely obscured by all the hype.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/balloons-2.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="balloons-2" style="float: left; margin: 0 10px 7px 0;" /><p>A few months ago, while visiting a hacker friend&#8217;s magnificent new San Francisco loft, he gestured to a little alcove stuffed with server racks and said: &#8220;And over there are the Bitcoin mines.&#8221; I smiled and nodded, thinking, <i>Oh, right, Bitcoin. Is that still a thing?</i></p>
+<p>Andy, if you&#8217;re reading this, I apologize. Is it ever, and how. Over the last few weeks the hype around everyone&#8217;s favorite distributed cryptographic currency has gone <i>insane</i>. It&#8217;s <a target="_blank" href="http://www.slate.com/articles/news_and_politics/view_from_chicago/2013/04/bitcoin_is_a_ponzi_scheme_the_internet_currency_will_collapse.html">a Ponzi scheme</a>; no, it&#8217;s the first instance of the <a target="_blank" href="http://nonchalantrepreneur.com/post/46485623457/three-eras-of-currency">third era of currency</a>; no, it will <a target="_blank" href="http://www.slate.com/blogs/moneybox/2013/04/10/bitcoin_s_deflation_problem.html">spiral up and down forever</a>; no, it&#8217;s <a href="http://techcrunch.com/2013/04/11/bitcoin/">the new venture-capital frontier</a>; no, it&#8217;s an <a target="_blank" href="http://www.bloomberg.com/news/2013-04-05/bitcoin-really-is-an-existential-threat-to-the-modern-liberal-state.html">existential threat to the modern state</a>.</p>
+<p>No, possibly, conceivably, maybe, and no. But: I realized this week that Bitcoin actually <i>is</i> a really big deal &#8212; in a way that&#8217;s been almost entirely obscured by all the hype.</p>
+<p>A rare voice of reason this month came from Felix Salmon, who <a target="_blank" href="https://medium.com/money-banking/2b5ef79482cb">wrote</a> (in a post marred by some remarkable ignorance; for instance, Facebook Credits ceased to be a $1 billion market when Facebook <a href="http://techcrunch.com/2012/06/23/why-facebook-is-folding-on-credits-and-doubling-down-on-payments/">discontinued</a> them <a target="_blank" href="http://developers.facebook.com/blog/post/2012/06/19/introducing-subscriptions-and-local-currency-pricing/">almost a year ago</a>):</p>
+<blockquote><p>A peer-to-peer payments system, allowing anybody on the internet to pay anybody else on the internet without having to sign up with some financial-services behemoth first, could revolutionize global commerce &#8230; Bitcoin isn’t the future. But it has helped to light the way ahead.</p></blockquote>
+<p>I mostly concur. Of course, I would, since I concluded exactly the same thing <a href="http://techcrunch.com/2011/05/21/the-bitcoin-experiment/">two years ago</a>, when Bitcoin was at its previous hype peak. I went on then to speculate that its real future might be as a national currency in a nation like Zimbabwe previously scarred by hyperinflation.</p>
+<p>&#8230;And I don&#8217;t know what I was thinking. Bitcoin&#8217;s true long-term value was staring me in the face, and I missed it. It wasn&#8217;t until I read this <a target="_blank" href="http://blog.nyaruka.com/bitcoins-bottom-billion-why-the-developing-world-may-be-bitcoins-biggest-customers">superb Nyaruka post</a> on the subject that it hit me.</p>
+<p>Almost everyone else writing about Bitcoin is doing so from the perspective of a First World citizen living in a nation with thriving electronic payment networks and a strong, easily traded currency. But that&#8217;s not the context where it really matters. Where Bitcoin matters, where it&#8217;s <i>important</i>, is the developing world.</p>
+<p>Ever tried to exchange Colombian pesos in Guatemala, or Tanzanian shillings in Zambia? <a target="_blank" href="http://blog.rezendi.com/2005/10/where-there-is-no-coca-cola.html">I have</a>, and believe me, it&#8217;s a Kafkaesque nightmare. Now imagine <i>living</i> in the developing world and trying to sell goods or services internationally. Talk about a <a target="_blank" href="http://pointsandfigures.com/2012/04/27/whats-a-pain-point/">pain point</a>. Until Bitcoin. To quote that Nyaruka post:</p>
+<blockquote><p>Someone in Rwanda that builds a compelling service can instantly start taking payments from the rest of the world, without asking for permission, without filling out any paperwork and with the same fee structure as the biggest retailers &#8230; So Bitcoin is exciting to me not so much because it is a new currency, but because it has the potential to be a globally recognized, yet completely decentralized, form of digital payment.</p></blockquote>
+<p>Of course unofficial distributed international payment networks are as old as the hills. Our own John Biggs <a href="http://techcrunch.com/2013/04/07/bitcoin-and-the-end-of-money/">points out</a> that Bitcoin is in essence much like a modern day <i><a target="_blank" href="http://en.wikipedia.org/wiki/Hawala">hawala</a></i> network; but it is to <i>hawala</i> as PayPal is to money orders sent by Pony Express. No ID required, no setup costs, no nothing: just send and receive. Bitcoin is no threat to the modern nation-state&#8230;but it is conceivably an existential threat to PayPal.</p>
+<p>However, it&#8217;s not without its flaws. For one thing, Bitcoin&#8217;s &#8220;<a target="_blank" href="http://blockchain.info/">block chain</a>&#8221; &#8212; the record that verifies all transactions &#8212; could conceivably be forked, as <a target="_blank" href="http://bitcoinmagazine.com/bitcoin-network-shaken-by-blockchain-fork/">happened</a> due to a <a target="_blank" href="http://mineforeman.com/2013/03/14/what-the-fork-was-that-a-forking-post-mortem/">versioning bug</a> back in March. That wasn&#8217;t a significant problem, but now that Bitcoin&#8217;s collective value has briefly hit 10 figures (although it might be back down to eight figures by tomorrow&#8230;) you have to wonder if someone might try a brute-force attack on it. &#8220;If a user controls the majority of computational power in the mining network, they can manipulate this to their advantage by creating two diverging chains,&#8221; to quote a <a target="_blank" href="http://blogs.cornell.edu/info4220/2013/03/29/bitcoin-and-the-double-spending-problem/">Cornell writeup</a>.</p>
+<p>In other words, if a true computing megapower (say, Amazon, Apple, Google, or one of a handful of national governments) really wanted to break Bitcoin, they could. In fact I&#8217;ve seen speculation that anyone willing to splash out a few million dollars on custom hardware would probably be able to hijack the block chain.</p>
+<p>Furthermore, it&#8217;s not really all that anonymous, which is a highly desirable feature in a digital currency; and worst of all, if the last few weeks have proved anything at all about Bitcoin, it&#8217;s that it&#8217;s <i>ridiculously</i> volatile&#8230; which is exactly what you <i>don&#8217;t</i> want in a payments mechanism.</p>
+<p>So I believe it&#8217;s Bitcoin&#8217;s successors &#8212; whether that be <a target="_blank" href="http://blogs.reuters.com/felix-salmon/2013/04/11/the-promise-of-ripple/">Ripple</a>/<a href="http://techcrunch.com/2013/04/11/now-backed-by-andreessen-more-opencoin-looks-to-build-a-better-bitcoin-and-a-universal-payment-ecosystem/">OpenCoin</a>, or the anonymous Bitcoin bolt-on <a target="_blank" href="http://blog.cryptographyengineering.com/2013/04/zerocoin-making-bitcoin-anonymous.html">ZeroCoin</a>, or something else still being dreamed up &#8212; that will truly change the world. But not the First World. We don&#8217;t much need Bitcoin and its descendants, at least not yet. In the developing world, though, crippled by weak currencies and byzantine payment infrastructures, a simple, seamless, frictionless, reliable international peer-to-peer payments system could be a huge, huge deal. But not until the volatility diminishes&#8230;which is to say, not until the hype here fades away. Here&#8217;s hoping that&#8217;s soon.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/797559/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSk6cKxXP1o:kznqmbs4cBM:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSk6cKxXP1o:kznqmbs4cBM:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSk6cKxXP1o:kznqmbs4cBM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSk6cKxXP1o:kznqmbs4cBM:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=RSk6cKxXP1o:kznqmbs4cBM:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSk6cKxXP1o:kznqmbs4cBM:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=RSk6cKxXP1o:kznqmbs4cBM:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=RSk6cKxXP1o:kznqmbs4cBM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/RSk6cKxXP1o" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/beyond-the-bitcoin-bubble/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/balloons-2.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/balloons-2.jpg?w=150" medium="image">
+			<media:title type="html">balloons-2</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/df4f08903b7a5c3d7078165edcf5bcf7?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">rezendi</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/beyond-the-bitcoin-bubble/</feedburner:origLink></item>
+		<item>
+		<title>Facebook's Latest Home Commercial Is Just The Right Amount Of Weird</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/98dPBl5bRZ8/</link>
+		<comments>http://techcrunch.com/2013/04/13/facebooks-latest-home-commercial-is-just-the-right-amount-of-weird/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 12:55:33 +0000</pubDate>
+		<dc:creator>Greg Kumparak</dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798250</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/zuck-n-goat.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zuck n goat" style="float: left; margin: 0 10px 7px 0;" />During the Facebook Home launch, Zuck premiered their first Home commercial. It was... pretty bad. A guy behind me whispered "<em>Is this real life?</em>", faces were palmed, and the room was pretty quiet as the lights came back up. They aimed for weird-funny, but ended up with mostly just weird. 
+
+Their second attempt is much, much better, if only because it has a goat that screams in Zuck's face.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/zuck-n-goat.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="zuck n goat" style="float: left; margin: 0 10px 7px 0;" /><p>During the Facebook Home launch event, Zuck premiered the company&#8217;s first commercial for the product. </p>
+<p>Complete with half-naked dudes stuffed into luggage compartments, surprise drag queens, and an unintentionally spooky child, it was&#8230; pretty bad. One guy in the audience behind me whispered &#8220;<em>Is this real life?</em>&#8220;, faces were palmed, and the room was pretty quiet as the lights came back up. They aimed for weird-funny, but ended up with mostly just weird.</p>
+<p>Fortunately, their second attempt is about a thousand times better, if only because it has a goat that screams in Zuck&#8217;s face. Plus, unlike the first commercial, this one actually mentions Facebook Home before the last half second of the 60 second spot.</p>
+<p><strong>The new TV spot:</strong></p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/ArFy91n1FR0?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p>(For the curious, that&#8217;s totally Facebook&#8217;s real Menlo Park HQ)</p>
+<p>And for those who missed it, the original, super weird commercial:</p>
+<p><span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/mx_GzNlQOxI?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span></p>
+<p>If only a funny commercial could save them from <a target="_blank" href="http://thenextweb.com/facebook/2013/04/12/facebook-home-suffers-from-poor-early-reviews-as-46-give-it-a-1-star-rating-on-google-play/">a mountain of scathing user reviews</a>.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798250/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=98dPBl5bRZ8:RCMzGsUtUyo:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=98dPBl5bRZ8:RCMzGsUtUyo:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=98dPBl5bRZ8:RCMzGsUtUyo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=98dPBl5bRZ8:RCMzGsUtUyo:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=98dPBl5bRZ8:RCMzGsUtUyo:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=98dPBl5bRZ8:RCMzGsUtUyo:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=98dPBl5bRZ8:RCMzGsUtUyo:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=98dPBl5bRZ8:RCMzGsUtUyo:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/98dPBl5bRZ8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/13/facebooks-latest-home-commercial-is-just-the-right-amount-of-weird/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/zuck-n-goat.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/zuck-n-goat.png?w=150" medium="image">
+			<media:title type="html">zuck n goat</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/86f75cc66896ab9b0602715f082803d6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">gregkumparak</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/13/facebooks-latest-home-commercial-is-just-the-right-amount-of-weird/</feedburner:origLink></item>
+		<item>
+		<title>T-Mobile Crows About First Day iPhone 5 Sales, But The Carrier's Future Is Still Unclear</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/bAglWI9M7p8/</link>
+		<comments>http://techcrunch.com/2013/04/12/t-mobile-crows-about-first-day-iphone-5-sales/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 06:59:43 +0000</pubDate>
+		<dc:creator>Chris Velazco</dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[t-mobile]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[iphone 5]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798219</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/iphone5.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iphone5" style="float: left; margin: 0 10px 7px 0;" />T-Mobile finally began <a href="http://techcrunch.com/2013/04/12/t-mobile-begins-99-iphone-5-sales-sees-lines-at-retail-stores/">selling the iPhone 5</a> earlier today, and it seems as though all that pent-up consumer tension has resulted in some promising sales for the carrier.
+
+"Today has been gangbusters for T-Mobile,” CMO Mike Sievert noted to<a target="_blank" href="http://allthingsd.com/20130412/t-mobile-says-first-day-with-the-iphone-was-gangbusters/"> AllThingsD</a> earlier today. Naturally, Sievert wouldn't discuss just how many iPhones were moved during the course of the day, but he did point out that customers had lined up at "nearly all" of the carrier's retail outlets.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2012/10/iphone5.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="iphone5" style="float: left; margin: 0 10px 7px 0;" /><p>T-Mobile finally began <a href="http://techcrunch.com/2013/04/12/t-mobile-begins-99-iphone-5-sales-sees-lines-at-retail-stores/">selling the iPhone 5</a> earlier today, and it seems as though all that pent-up consumer tension has resulted in some promising sales for the carrier.</p>
+<p>&#8220;Today has been gangbusters for T-Mobile,” CMO Mike Sievert noted to<a target="_blank" href="http://allthingsd.com/20130412/t-mobile-says-first-day-with-the-iphone-was-gangbusters/"> AllThingsD</a> earlier today. Naturally, Sievert wouldn&#8217;t discuss just how many iPhones were moved during the course of the day, but he did point out that customers had lined up at &#8220;nearly all&#8221; of the carrier&#8217;s retail outlets.</p>
+<p>By now the iPhone 5 is a known quantity so most stores didn&#8217;t see the sort of crazy volume that usually goes with an iPhone going on sale &#8212; for what it&#8217;s worth, our intern Michael only noticed a handful of people waiting in line at a T-Mobile store near our office in New York&#8217;s Lower East Side &#8212; but it&#8217;s heartening to see those customers finally getting a chance to pick up an iPhone without having to switch providers.</p>
+<p>This moment has been a long time coming for T-Mobile. For months upon months the carrier bore the ignominious distinction of being the only major wireless provider in the U.S. without access to Apple&#8217;s tiny mobile juggernaut. The fact that even prepaid providers like Cricket and Virgin Mobile got to offer the iPhone ahead of T-Mobile was surely cause for some consternation, but the ability to stock iPhones and a dramatic shift in how it handles its rate plans could mean big things for T-Mobile in the months to come.</p>
+<p>At least that&#8217;s what the company is surely hoping, especially since it posted some disappointing figures in its most recent<a target="_blank" href="http://newsroom.t-mobile.com/articles/t-mobile-2012-fourth-quarter-operating-results"> earnings release</a> &#8212; total revenue dipped 5.2 percent year-over-year, while operating income sunk some 25 percent over the same amount of time. Those figures were just released in late February, so it&#8217;ll be a while yet before we see what sort of impact the iPhone actually has on T-Mobile&#8217;s fortunes.</p>
+<p>In the meantime, T-Mobile&#8217;s brass has no shortage of other things to concern themselves with. Take the possibility of not one, but two mergers for instance &#8212; T-Mo parent company Deutsche Telekom just recently <a target="_blank" href="http://www.fiercewireless.com/story/deutsche-telekom-improves-offer-t-mobilemetropcs-merger/2013-04-10">sweetened its offer</a> to MetroPCS shareholders in a bid to make the notion of T-Mobile/MetroPCS tie-up more palatable, and <em>Bloomberg </em>revealed earlier today that Dish Network chairman casually brought up the idea of a <a href="http://techcrunch.com/2013/04/12/dish-network-chairman-said-to-be-seeking-a-merger-with-t-mobile-usa/">potential T-Mobile/Dish merger</a> with Deutsche Telekom.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798219/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=bAglWI9M7p8:K_KpNt1NHps:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=bAglWI9M7p8:K_KpNt1NHps:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=bAglWI9M7p8:K_KpNt1NHps:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=bAglWI9M7p8:K_KpNt1NHps:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=bAglWI9M7p8:K_KpNt1NHps:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=bAglWI9M7p8:K_KpNt1NHps:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=bAglWI9M7p8:K_KpNt1NHps:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=bAglWI9M7p8:K_KpNt1NHps:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/bAglWI9M7p8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/t-mobile-crows-about-first-day-iphone-5-sales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2012/10/iphone5.jpg?w=146" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2012/10/iphone5.jpg?w=146" medium="image">
+			<media:title type="html">iphone5</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/ec2ac47d9dad53c2ae4f7882ae9bf6b9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ctvelazco</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/t-mobile-crows-about-first-day-iphone-5-sales/</feedburner:origLink></item>
+		<item>
+		<title>Here's How To Get Facebook Home Running On Nearly Any Android Device</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/9jIcMI7KPTs/</link>
+		<comments>http://techcrunch.com/2013/04/12/heres-how-to-get-facebook-home-running-on-nearly-any-android-device/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 06:29:27 +0000</pubDate>
+		<dc:creator>Chris Velazco</dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[facebook home]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[facebook]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798198</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/fbhome-tablet.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="fbhome-tablet" style="float: left; margin: 0 10px 7px 0;" />In case you happened to miss the furor earlier today (or yesterday, depending on your timezone), Facebook officially pushed its Facebook Home launcher<a href="http://techcrunch.com/2013/04/12/facebook-home-now-live-on-google-play-a-free-app-for-htc-one-x-and-x-samsung-galaxy-s-iii-and-note-ii/"> into the Google Play Store</a> for owners of a select few devices to muck around with. Early impressions seem to run the gamut, but unless you had the right hardware you were plumb out of luck if you wanted to take Home for a spin.
+
+Well, let me rephrase that: you <em>were</em> plumb out of luck. ]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/fbhome-tablet.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="fbhome-tablet" style="float: left; margin: 0 10px 7px 0;" /><p>In case you happened to miss the furor earlier today (or yesterday, depending on your timezone), Facebook officially pushed its Facebook Home launcher<a href="http://techcrunch.com/2013/04/12/facebook-home-now-live-on-google-play-a-free-app-for-htc-one-x-and-x-samsung-galaxy-s-iii-and-note-ii/"> into the Google Play Store</a> for owners of a select few devices to muck around with. Early impressions seem to run the gamut, but unless you had the right hardware you were plumb out of luck if you wanted to take Home for a spin.</p>
+<p>Well, let me rephrase that: you <em>were</em> plumb out of luck. <a target="_blank" href="http://www.modaco.com/topic/361924-facebook-home-download-including-patched-apk-version/#entry2113130">MoDaCo founder Paul O&#8217;Brien</a> worked up a dead-simple way to get Facebook Home up and running on just about any Android device. Long story short, he patched a version of the Home app to keep it from figuring out what device you&#8217;ve just loaded it onto and showing you the customary it&#8217;s-not-your-turn screen.</p>
+<p>All you really need to do is pop into your Android device&#8217;s settings and make sure it&#8217;s set to install applications from unknown sources (it&#8217;s in the &#8220;Security&#8221; section). From there, you just have to <a target="_blank" href="http://www.modaco.com/topic/361924-facebook-home-download-including-patched-apk-version/#entry2113130">download and install</a> his patched versions of the Facebook Home app, as well as his patched Facebook and Facebook Messenger apps. Already have those latter two apps installed? You&#8217;ll have to uninstall both of them and load up O&#8217;Brien&#8217;s cooked versions in order for Home to work properly.</p>
+<p>That could pose an issue for some of the more curious among you &#8212; certain devices that have the Facebook app baked into it by the manufacturer (like the HTC One, for example) won&#8217;t play nice with this version of the Home app unless you root the device and remove the Facebook app yourself. Thankfully, rooting most popular devices is way easier than it used to be, but be sure to <a target="_blank" href="http://forum.xda-developers.com/">do your homework</a> if you think you may take the plunge.</p>
+<p>To test out O&#8217;Brien&#8217;s handiwork, I tried installing Facebook Home on two devices that it wasn&#8217;t supposed to wind up on yet: Motorola&#8217;s Droid RAZR HD and Samsung&#8217;s Galaxy Note 8.0 tablet. After an installation process that was completed in under two minutes for each device, Facebook Home was working mostly the way it should &#8212; it took a moment for messages to come through, but Facebook&#8217;s novel chatheads appeared on both devices, and I was easily able to see what my friends were doing on a Friday night while I stayed home to play with phones. That said, not every one of my friends&#8217; news feed updates wound up in Home&#8217;s swipe-able stream, but that seems to be the case even if you&#8217;re running Home on supported hardware.</p>
+<p>The only major missing feature I noticed was that neither device would let me send SMS messages from the Messenger app, an omission that seemed to plague most people that tried O&#8217;Brien&#8217;s builds. Granted, that means you don&#8217;t get the <em>exact</em> Home experience, but all things considered this&#8217;ll provide you a solid peek before Facebook officially brings Home to all the other Android devices of the world. As for whether or not you&#8217;ll find it to be worth keeping &#8212; well, that&#8217;s another story altogether.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798198/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9jIcMI7KPTs:CUExAlYijaA:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9jIcMI7KPTs:CUExAlYijaA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9jIcMI7KPTs:CUExAlYijaA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9jIcMI7KPTs:CUExAlYijaA:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=9jIcMI7KPTs:CUExAlYijaA:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9jIcMI7KPTs:CUExAlYijaA:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=9jIcMI7KPTs:CUExAlYijaA:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=9jIcMI7KPTs:CUExAlYijaA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/9jIcMI7KPTs" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/heres-how-to-get-facebook-home-running-on-nearly-any-android-device/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/fbhome-tablet.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/fbhome-tablet.jpg?w=150" medium="image">
+			<media:title type="html">fbhome-tablet</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/ec2ac47d9dad53c2ae4f7882ae9bf6b9?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ctvelazco</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/heres-how-to-get-facebook-home-running-on-nearly-any-android-device/</feedburner:origLink></item>
+		<item>
+		<title>Excerpts From Laurene Powell Jobs' First Interview Since The Death Of Steve Jobs</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/qtI-kckGb4w/</link>
+		<comments>http://techcrunch.com/2013/04/12/excerpts-from-laurene-powell-jobs-first-interview-since-the-death-of-steve-jobs/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 05:17:30 +0000</pubDate>
+		<dc:creator>Gregory Ferenstein</dc:creator>
+				<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798146</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/laurene_powell_jobs.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Laurene_Powell_Jobs" style="float: left; margin: 0 10px 7px 0;" />In the first interview since her husband&#8217;s death, Laurene Powell Jobs dedicated her sizable platform to advancing immigration reform, while remaining notably tight-lipped about the private life of the late Steve Jobs. We&#8217;ve included highlights (with context) from her interview with Rock Center host Brian Williams. On Steve Jobs: &#8220;Pretty Cool&#8221; Legacy BRIAN WILLIAMS: It&#8217;s another way of saying we&#8217;re left with a world of really cool stuff. I always wanted to know what it was like to be a Kennedy and drive to Kennedy Airport; and what it&#8217;s like to be you at a light and watch 10 people cross, and the only thing they have in common are white ear buds. What&#8217;s that like? LAURENE POWELL JOBS: It&#8217;s pretty cool. BRIAN WILLIAMS: (LAUGHS) It&#8217;s pretty cool. I mean, that changed our world. LAURENE POWELL JOBS: Yeah. To do what you wanna do, to leave a mark&#8211; in a way that you think is important and lasting, that&#8217;s a life well lived. On Immigration Reform Powell Jobs has been a vocal advocate of immigration reform, partnering with director Davis Guggenheim (Waiting For Superman, An Inconvenient Truth) on a documentary highlighting the struggles of talented, patriotic American youth who have been denied entrance into the military and college because they are undocumented immigrants. To add public pressure for Congress to pass a bill that provides a pathway to citizenship for children of immigrants who came to America illegally, the film (trailer below) is accompanied by a grassroots campaign and website. BRIAN WILLIAMS: Climb into the minds of our viewers watching you guys on Friday night. So help us process this. How are we supposed to feel about their parents, who did do something bad? This is ill-gotten gains, because the first entry into this country was wrong. How are we supposed to feel about the bureaucracy we would now have to have just to hand Social Security numbers to our Marine, our civil engineer? LAURENE JOBS POWELL: Yes. It&#8217;s understandable that people are conflicted about this. And, yes, the parents broke the law. And so I think that&#8217;s why Congress is trying to find a way to make amends. So have them pay a penalty, have them pay back taxes. Have them wait for two decades in order to have the chance to have citizenship. I mean, there are penalties that can be brought out. But then you have someone]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/laurene_powell_jobs.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Laurene_Powell_Jobs" style="float: left; margin: 0 10px 7px 0;" /><p></p>
+<p>In the first interview since her husband&#8217;s death, Laurene Powell Jobs dedicated her sizable platform to advancing immigration reform, while remaining notably tight-lipped about the private life of the late Steve Jobs. We&#8217;ve included highlights (with context) from her interview with <em>Rock Center</em> host Brian Williams.</p>
+<h2>On Steve Jobs: &#8220;Pretty Cool&#8221; Legacy</h2>
+<p>BRIAN WILLIAMS: It&#8217;s another way of saying we&#8217;re left with a world of really cool stuff. I always wanted to know what it was like to be a Kennedy and drive to Kennedy Airport; and what it&#8217;s like to be you at a light and watch 10 people cross, and the only thing they have in common are white ear buds. What&#8217;s that like?</p>
+<p><em>LAURENE POWELL JOBS: It&#8217;s pretty cool.</em></p>
+<p>BRIAN WILLIAMS: (LAUGHS) It&#8217;s pretty cool. I mean, that changed our world.</p>
+<p><em>LAURENE POWELL JOBS: Yeah. To do what you wanna do, to leave a mark&#8211; in a way that you think is important and lasting, that&#8217;s a life well lived.</em></p>
+<h2>On Immigration Reform</h2>
+<p>Powell Jobs has been a vocal advocate of immigration reform, partnering with director Davis Guggenheim (Waiting For Superman, An Inconvenient Truth) on a documentary highlighting the struggles of talented, patriotic American youth who have been denied entrance into the military and college because they are undocumented immigrants. To add public pressure for Congress to pass a bill that provides a pathway to citizenship for children of immigrants who came to America illegally, the film (trailer below) is accompanied by a grassroots campaign and <a target="_blank" href="http://thedreamisnow.org">website</a>.</p>
+<span class='embed-youtube' style='text-align:center; display: block;'><iframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/tUx62UBoOoU?version=3&#038;rel=1&#038;fs=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' frameborder='0'></iframe></span>
+<p>BRIAN WILLIAMS: Climb into the minds of our viewers watching you guys on Friday night. So help us process this. How are we supposed to feel about their parents, who did do something bad? This is ill-gotten gains, because the first entry into this country was wrong. How are we supposed to feel about the bureaucracy we would now have to have just to hand Social Security numbers to our Marine, our civil engineer?</p>
+<p><em>LAURENE JOBS POWELL: Yes. It&#8217;s understandable that people are conflicted about this. And, yes, the parents broke the law. And so I think that&#8217;s why Congress is trying to find a way to make amends. So have them pay a penalty, have them pay back taxes. Have them wait for two decades in order to have the chance to have citizenship. I mean, there are penalties that can be brought out. But then you have someone like Senator Marco Rubio who said, you know, &#8220;I understand why these parents came.&#8221; You know, if you are in desperate poverty, if you are struggling, if you would do anything in the world to get a better life for your kids, who are we to say &#8212; to judge you so harshly?</em></p>
+<p>BRIAN WILLIAMS:&#8230;what about the argument that not everyone will succeed and prosper? Some people are trying to game the system; some will be a constant draw, a drain on the American economy. This won&#8217;t be all net positive.</p>
+<p><em>LAURENE POWELL JOBS: One of my favorite quotes is a lawmaker said, &#8220;I do not support any immigration policy that would have kept my grandparents out of the country.&#8221; And I think that&#8217;s a good rule. How about we agree upon what our common American values are, which is let&#8217;s make this a true land of opportunity. We&#8217;re also a land of rules and laws that should be enforced. Let&#8217;s fix this problem, and then let&#8217;s let people flourish.</em></p>
+<p>Congress is <a target="_blank" href="http://firstread.nbcnews.com/_news/2013/04/10/17689511-leahy-hearing-on-comprehensive-immigration-reform-set-for-april-17?lite">slated</a> to begin debate on a draft of comprehensive immigration reform, which will likely include provisions to allow undocumented youth a path to citizenship, around mid-April.</p>
+<p><em>Transcript excerpted from: “Rock Center With Brian Williams” on NBC News – Friday, April 12, 2013</em></p>
+<p>[<em><a target="_blank" href="http://en.wikipedia.org/wiki/File:Laurene_Powell_Jobs.jpg">Image Credit: Wikimedia user Gobierno de Chile</a></em>]</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798146/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qtI-kckGb4w:Mz-mjYGbsXA:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qtI-kckGb4w:Mz-mjYGbsXA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qtI-kckGb4w:Mz-mjYGbsXA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qtI-kckGb4w:Mz-mjYGbsXA:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=qtI-kckGb4w:Mz-mjYGbsXA:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qtI-kckGb4w:Mz-mjYGbsXA:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=qtI-kckGb4w:Mz-mjYGbsXA:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=qtI-kckGb4w:Mz-mjYGbsXA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/qtI-kckGb4w" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/excerpts-from-laurene-powell-jobs-first-interview-since-the-death-of-steve-jobs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/laurene_powell_jobs.jpg?w=128" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/laurene_powell_jobs.jpg?w=128" medium="image">
+			<media:title type="html">Laurene_Powell_Jobs</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/36fb0b62cd32125bebf1806040529d3f?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">ferenstein</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/rock-center-laurene-powell-jobs-1.jpg" medium="image">
+			<media:title type="html">rock-center-laurene-powell-jobs-1</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/excerpts-from-laurene-powell-jobs-first-interview-since-the-death-of-steve-jobs/</feedburner:origLink></item>
+		<item>
+		<title>Entrepreneurial Excellence: Can 10,000 Hours Of Practice Make Perfect?</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/IFAsVgXDtgk/</link>
+		<comments>http://techcrunch.com/2013/04/12/10000-hours-and-the-difference-between-entrepreneurial-success-and-failure/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 04:00:46 +0000</pubDate>
+		<dc:creator>Jon Auerbach</dc:creator>
+				<category><![CDATA[Column]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=797392</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/electronics-club.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="electronics club" style="float: left; margin: 0 10px 7px 0;" /><b>Editor’s note:</b> <em>Jon Auerbach is a partner at Charles River Ventures, a 42-year-old early stage venture firm based in Menlo Park and Cambridge, Ma, where he focuses on mobile technologies.</em>
+
+Research over the past two decades has identified a strong link between hours of practice and expertise in sports, chess and the performing arts. In the early 1990s, Anders Ericsson, a psychologist at Florida State University, <a target="_blank" href="http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html">spent months tracking violinists</a> at the Music Academy in Berlin. He found that the top violinists had practiced on average 10,000 hours during the course of their lives. The weakest violinists had averaged only 4,000 hours.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/electronics-club.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="electronics club" style="float: left; margin: 0 10px 7px 0;" /><p><strong>Editor’s note:</strong> <em><a target="_blank" href="http://www.crunchbase.com/person/jon-auerbach">Jon Auerbach</a> is a partner at <a target="_blank" href="http://www.crv.com/">Charles River Ventures</a>, a 42-year-old, early-stage venture firm based in Menlo Park and Cambridge, Mass., where he focuses on mobile technologies. Follow him on Twitter <a target="_blank" href="https://twitter.com/jgauerbach">@jgauerbach</a>.</em></p>
+<p>Research over the past two decades has identified a strong link between hours of practice and expertise in sports, chess and the performing arts. In the early 1990s, Anders Ericsson, a psychologist at Florida State University, <a target="_blank" href="http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html">spent months tracking violinists</a> at the Music Academy in Berlin. He found that the top violinists had practiced on average 10,000 hours during the course of their lives. The weakest violinists had averaged  4,000 hours.</p>
+<p>This 10,000-hour “rule,” cited in Malcolm Gladwell’s “Outliers,” is now accepted as gospel among a segment of society that believes that hours logged for young athletes and musicians is the key to success. The core of the argument is that only through what is called “deliberate” practice can the 10,000 hours pay off. By this, the experts mean practicing in the right conditions with the right motivation, mentorship and potential for eventual success. Simply studying piano for 10,000 hours isn’t enough to ensure greatness. Deliberate practice is the key.</p>
+<p>I’ve spent some time exploring 10,000 hours in entrepreneurship and whether the theory might be fungible. The essential argument is that behind many great entrepreneurs is a life spent, sometimes inadvertently, practicing deliberately. Some of the world’s best entrepreneurs were the kids running lemonade stands, building LEGO robots and hacking computers.</p>
+<p><b>When Deliberate Isn’t Necessarily Deliberate</b></p>
+<p>But deliberate practice doesn’t always follow textbook rules. Sometimes it comes inadvertently. One of the best examples is cited by Daniel Coyle in “The Talent Code.” Coyle tells the story of Simon Clifford, a gym teacher from Leeds, England, who traveled to Brazil in 1997 to better understand why the Brazilians were so good at soccer.</p>
+<p>While conventional wisdom had held that the main factors were poverty, soccer as a dominant national sport and a good climate, Clifford found that until the late 1950s, the Brazilians were not a soccer powerhouse. But during that decade, Brazil became obsessed with a type of indoor soccer called <a target="_blank" href="http://en.wikipedia.org/wiki/Futsal">futsal</a>. The game is played with a smaller, heavier ball in a much tighter indoor space. Because the ball is heavy and small, it can’t be kicked in the air easily. As a result, precision in passing is key.</p>
+<p>In one minute of futsal, the average player passes six times as much as in a minute of regular soccer. And in soccer, passing precision is key in separating great from good. So inadvertently, the Brazilians were acquiring the right soccer skills through futsal in a much more deliberate way than if they had been training on large, outdoor fields. In 1958, Brazil won the World Cup, beginning a dynasty of soccer domination.</p>
+<p><b>Inadvertent Deliberate Practice: Entrepreneur-Style</b></p>
+<p>The theory of 10,000 hours of practice translates into generally 10 years of roughly 20 hours per week. If the same holds true for entrepreneurs, then kids need to be building things and selling things in middle school to hit their stride in their mid-twenties. Further, there’s an argument that young entrepreneurs rarely have 20 hours a week in their teen years to practice their craft, so getting to 10,000 hours might take more like 15 or 20 years.</p>
+<h3 style="clear:both;margin-left:5px;margin-bottom:5px;width:640px;float:center;color:#0a9400;">If the same holds true for entrepreneurs, then kids need to be building things and selling things in middle school to hit their stride in their mid-twenties.</h3>
+<p>The entrepreneurial world is full of compelling stories of great innovators putting in their 10,000 entrepreneurial hours. While other kids at Homestead High in Cupertino were playing football, Steve Jobs was building a “phone phreak” device that tricked the AT&amp;T long-distance system into letting people make free calls. Bill Gates spent much of his time at the Lakeside School programming on leased-time GE and Digital Equipment computers, including writing code that allowed them to obtain free computer time. This led to a ban of computer use for Gates and three other students.</p>
+<p>Larry Page claims that at age 12 he knew he would someday start a business. He would spend countless hours tinkering with computers and writing code, and he was the first student in his elementary school to turn in an assignment on a word processor. In middle school, Mark Zuckerberg wrote a computer program that connected computers at his father’s dental practice to machines in the Zuckerberg home.</p>
+<p>Soccer is not learned from sitting in a classroom; it’s learned by kicking a ball over and over. The 10,000-hour theory is just that: a theory. But if it holds water, there are some pretty compelling implications for how (and whether) entrepreneurship can be taught, where best to acquire skills and how to think about funding models.</p>
+<p>[Image via Flickr <a target="_blank" href="http://www.flickr.com/photos/extraketchup/440680363/">here</a> and <a target="_blank" href="http://www.flickr.com/photos/fotosdoacre/7394235508">here</a>.]</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/797392/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IFAsVgXDtgk:6FynhAWxXdg:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IFAsVgXDtgk:6FynhAWxXdg:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IFAsVgXDtgk:6FynhAWxXdg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IFAsVgXDtgk:6FynhAWxXdg:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=IFAsVgXDtgk:6FynhAWxXdg:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IFAsVgXDtgk:6FynhAWxXdg:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=IFAsVgXDtgk:6FynhAWxXdg:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=IFAsVgXDtgk:6FynhAWxXdg:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/IFAsVgXDtgk" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/10000-hours-and-the-difference-between-entrepreneurial-success-and-failure/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/electronics-club.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/electronics-club.jpg?w=150" medium="image">
+			<media:title type="html">electronics club</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/2a014e70509390133a9b9073671a2e8d?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">tcbucket</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/futsal.jpg" medium="image">
+			<media:title type="html">futsal</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/10000-hours-and-the-difference-between-entrepreneurial-success-and-failure/</feedburner:origLink></item>
+		<item>
+		<title>Schmap Takes A Deeper Dive Into Twitter Audience Data With Demographics Pro</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/LcLfJXhv2Hw/</link>
+		<comments>http://techcrunch.com/2013/04/12/schmap-launches-demographics-pro/#comments</comments>
+		<pubDate>Sat, 13 Apr 2013 00:31:12 +0000</pubDate>
+		<dc:creator>Anthony Ha</dc:creator>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[schmap]]></category>
+		<category><![CDATA[Demographics Pro]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798131</guid>
+		<description><![CDATA[<img width="100" height="43" src="http://tctechcrunch2011.files.wordpress.com/2013/04/demographics-pro-logo.jpg?w=100&amp;h=43&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="demographics pro logo" style="float: left; margin: 0 10px 7px 0;" /><a target="_blank" href="http://www.schmap.com">Schmap</a> already <a href="http://techcrunch.com/2011/10/27/schmaps-in-depth-analytics-platform-lets-you-take-a-deep-data-dive-on-your-twitter-followers/">helped advertisers and other companies understand their Twitter followers</a> through its <a target="_blank" href="http://www.knowyourfollowers.com">Know Your Followers</a> product, but today it launched a new, upgraded service called <a target="_blank" href="http://www.demographicspro.com">Demographics Pro</a> — CEO Paul Hallett described the concept as "Nielsen for Twitter."
+
+Nielsen does its own social media analysis, and it<a href="http://techcrunch.com/2012/12/17/nielsen-twitter-tv-rating/"> announced a partnership with Twitter</a> last fall, but that was focused on measuring the social media impact of TV shows. Demographics Pro is much broader than that, giving customers a detailed demographic breakdown of the people following a given account or commenting on a given hashtag.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="43" src="http://tctechcrunch2011.files.wordpress.com/2013/04/demographics-pro-logo.jpg?w=100&amp;h=43&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="demographics pro logo" style="float: left; margin: 0 10px 7px 0;" /><p><a target="_blank" href="http://www.schmap.com">Schmap</a> already <a href="http://techcrunch.com/2011/10/27/schmaps-in-depth-analytics-platform-lets-you-take-a-deep-data-dive-on-your-twitter-followers/">helped advertisers and other companies understand their Twitter followers</a> through its <a target="_blank" href="http://www.knowyourfollowers.com">Know Your Followers</a> product, but today it launched a new, upgraded service called <a target="_blank" href="http://www.demographicspro.com">Demographics Pro</a> — CEO Paul Hallett described the concept as &#8220;Nielsen for Twitter.&#8221;</p>
+<p>Nielsen does its own social media analysis, and it<a href="http://techcrunch.com/2012/12/17/nielsen-twitter-tv-rating/"> announced a partnership with Twitter</a> last fall, but that was focused on measuring the social media impact of TV shows. Demographics Pro is much broader than that, giving customers a detailed demographic breakdown of the people following a given account or commenting on a given hashtag.</p>
+<p>The best way to understand the data that Schmap is offering is to look at a few sample profiles. Hallett showed me the data for my own Twitter followers — apparently there are 12,032 real people following me, 62.7 percent of them are male, and their average income is $80,300 per year. They like to eat at In N Out, shop at Trader Joe&#8217;s, and are &#8220;dressed by&#8221; Nordstrom&#8217;s. The report says:</p>
+<blockquote><p>Professionally, @anthonyha&#8217;s followers are employed as sales/marketing managers, senior managers, programmers, web developers and investors. The account has a particularly high concentration of entrepreneurs (within the top 10% of all Twitter accounts in this respect).</p></blockquote>
+<p>This goes on for 27 pages, covering things like ethnicity, location, and interests. This is all algorithmically generated, Hallett told me, and it&#8217;s based less on what people say explicitly on Twitter (though that&#8217;s a component) and more on using &#8220;massive amounts of subtle correlations&#8221; that suggest implicit details about users&#8217; demographics, interests and habits. For example, Hallett noted that if someone checks in frequently at Whole Foods, that tells you that they like to shop at Whole Foods, but it also suggests certain things about their income level and age — nothing definitive on its own, but something that can be combined with other indicators.</p>
+<p><a href="http://techcrunch.com/2013/04/12/schmap-launches-demographics-pro/demographics-pro-screenshot/" rel="attachment wp-att-798155"></a></p>
+<p>You&#8217;re unlikely to be as fascinated by my Twitter following as I am, but Schmap is releasing a few profiles to the public to give people a taste of what it can do. Here&#8217;s a profile of users who <a target="_blank" href="http://www.demographicspro.com/samples?s=%23LeanIn">tweet about Sheryl Sandberg&#8217;s new book using the #LeanIn hashtag</a>. And here&#8217;s one for <a target="_blank" href="http://www.demographicspro.com/samples?s=%23MarriageEquality">people tweeting about #MarriageEquality</a>.</p>
+<p>You don&#8217;t have to look at profiles in isolation, either. You can build charts of comparing different groups, like those tweeting about <a target="_blank" href="http://www.demographicspro.com/samples?c=%23iPhone5">the iPhone 5 versus the Galaxy S4 versus the BlackBerry Z10</a>.</p>
+<p>Apparently Schmap has been already made this data available to partners through its API. For example, it powers <a target="_blank" href="http://www.datasift.com">DataSift</a>&#8216;s demographics data. It seems more intuitive build the standalone product before releasing an API, but Hallett said the team originally thought that its main business would be offering this data as a customizable, white label service via the API. Eventually he realized there might be a broader audience, and also an opportunity to deliver insight and context (such as the description I quoted above), rather than pure numbers.</p>
+<p>&#8220;What we realized was &#8230; a lot of what we see in Demographics Pro is based on not just the data but our deep understanding of what makes that data special,&#8221; he said.</p>
+<p>Hallett also emphasized that Demographics Pro doesn&#8217;t allow any direct targeting of audience groups. In other words, an advertiser couldn&#8217;t just say that they wanted to run a campaign that reached a certain age and income group. Instead, they might look at a certain topic and, based on the demographic data, decide whether they wanted to run advertisements against that topic.</p>
+<p>Customers can also combine demographic and sentiment analysis by importing their own Twitter lists (each list presumably representing a specific group from a sentiment analysis programming), Hallett said.</p>
+<p>Given its interest in audience analysis (signaled, among other things, by <a href="http://techcrunch.com/2013/02/05/twitter-confirms-purchase-of-bluefin-labs-to-boost-tv-analytics-and-advertising-services/">its recent purchase of social analytics startup Bluefin Labs</a>), I wondered if this is something Twitter could build itself.</p>
+<p>&#8220;The short answer is, &#8216;Yes they could,&#8217;&#8221; Hallett said — but he added that Schmap&#8217;s technology was developed by a team of &#8220;hardcore mathematicians&#8221; for over two years. &#8220;It&#8217;s not the type of thing that they could just say, &#8216;We like that idea, let&#8217;s do it.&#8217;&#8221;</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798131/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LcLfJXhv2Hw:P3id2Lm0dm0:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LcLfJXhv2Hw:P3id2Lm0dm0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LcLfJXhv2Hw:P3id2Lm0dm0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LcLfJXhv2Hw:P3id2Lm0dm0:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=LcLfJXhv2Hw:P3id2Lm0dm0:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LcLfJXhv2Hw:P3id2Lm0dm0:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=LcLfJXhv2Hw:P3id2Lm0dm0:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=LcLfJXhv2Hw:P3id2Lm0dm0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/LcLfJXhv2Hw" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/schmap-launches-demographics-pro/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/demographics-pro-logo.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/demographics-pro-logo.jpg?w=150" medium="image">
+			<media:title type="html">demographics pro logo</media:title>
+		</media:content>
+
+		<media:content url="http://1.gravatar.com/avatar/72b358648f4587cc2a11895c32b8e979?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">anthha</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/demographics-pro-screenshot.jpg" medium="image">
+			<media:title type="html">demographics pro screenshot</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/schmap-launches-demographics-pro/</feedburner:origLink></item>
+		<item>
+		<title>Code In Twitter Music's Placeholder Page Shows Web Interface, Track Purchasing, Charts And Service Integrations</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/GHUWN63rVqk/</link>
+		<comments>http://techcrunch.com/2013/04/12/code-in-twitter-musics-placeholder-page-shows-web-interface-track-purchasing-charts-and-integrations/#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 22:03:37 +0000</pubDate>
+		<dc:creator>Drew Olanoff</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[App]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[We Are hunted]]></category>
+		<category><![CDATA[tracks]]></category>
+		<category><![CDATA[charts]]></category>
+		<category><![CDATA[spotify]]></category>
+		<category><![CDATA[rdio]]></category>
+		<category><![CDATA[vevo]]></category>
+		<category><![CDATA[youtube]]></category>
+		<category><![CDATA[integration]]></category>
+		<category><![CDATA[purchase]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798103</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_2_18_pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screenshot_4_12_13_2_18_PM" style="float: left; margin: 0 10px 7px 0;" />Since we have nothing much to go on other than a static landing page for Twitter #music, some folks didfurther inspection within the CSS on the login page, and certain features and integrations became apparent. We&#8217;ve reached out to Twitter to confirm what we&#8217;ve seen, and we&#8217;ll update our story once we hear back. Until then, here&#8217;s what can be taken from the styling code itself, picked up on by desginer Youssef Sarhan: - Both web interface and separate downloadable app - Pull in Tracks from iTunes, Spotify, Soundcloud and Rdio - YouTube and Vevo integration - We Are Hunted&#8217;s charts feature - Turn playing tracks on/off - Track purchasing - Tweet a track .iconmusic-spotify-connect-btn{background-position:-4431px -0px;height:32px;width:179px} .iconmusic-player-source-rdio{background-position:-2801px -0px;height:19px;width:30px} .iconmusic-player-source-itunes{background-position:-2751px -0px;height:19px;width:30px} .iconmusic-player-source-soundcloud{background-position:- 2851px -0px;height:14px;width:92px} .iconmusic-player-source-vevo{background-position:-2963px -0px;height:9px;width:53px} .youtube-vid player{position:absolute;padding:10px;height:200px} While this is in no way a finalized &#8220;feature set&#8221; for the Twitter #Music app, it is more information than we had before and confirmation of what we&#8217;ve seen others testing out on Twitter, which are basically embedded music players in Twitter Cards. And of course, since this is a Twitter-owned page, so the code speaks for itself. Here&#8217;s a look at what the player will look like, again referenced in the CSS for the page: Here&#8217;s that on/off switch for playing tracks: These are some random graphical elements that point to what services will be included as well: In addition to all of this, it looks like Twitter will be bringing in bios of musicians, perhaps from their Twitter profiles. All of this integration makes complete sense and perhaps the selling of music will be controlled by the artist themselves. If you&#8217;re listening to a track that someone shared from Spotify and want to purchase it immediately, it doesn&#8217;t matter which service Twitter hooks into, there&#8217;s a good chance that you&#8217;re going to follow through with your purchase. This could mean big bucks for Twitter as it marches towards going public, perhaps as early as next year. This all gives us more of a sense of what the #Music service itself might look like, even though we have no screenshots to prove it. Much in the way that Twitter set up &#8220;hashtag pages&#8221; for brands such as NASCAR, Twitter is taking all of the data that it&#8217;s currently collecting and just showing it off in a different, more consumable way. If #Music becomes a full-featured service that artists can use to sell]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_2_18_pm.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="Screenshot_4_12_13_2_18_PM" style="float: left; margin: 0 10px 7px 0;" /><p>Since we have nothing much to go on other than a <a href="http://techcrunch.com/2013/04/12/twitters-music-site-is-up-and-its-wait-you-cant-use-it-yet/">static landing page</a> for Twitter #music, some folks did<a target="_blank" href="http://sefsar.com/twitter-music-leak">further inspection</a> within the <a target="_blank" href="https://d20nan3osubr3.cloudfront.net/css/main.831ec80bb1e1ba23c86479426a30718a.css">CSS</a> on the <a target="_blank" href="https://music.twitter.com/_login/">login page</a>, and certain features and integrations became apparent.</p>
+<p>We&#8217;ve reached out to Twitter to confirm what we&#8217;ve seen, and we&#8217;ll update our story once we hear back.</p>
+<p>Until then, here&#8217;s what can be taken from the styling code itself, picked up on by desginer <a target="_blank" href="https://twitter.com/ys">Youssef Sarhan</a>:</p>
+<p><strong>- Both web interface and separate downloadable app<br />
+- Pull in Tracks from iTunes, Spotify, Soundcloud and Rdio<br />
+- YouTube and Vevo integration<br />
+- We Are Hunted&#8217;s charts feature<br />
+- Turn playing tracks on/off<br />
+- Track purchasing<br />
+- Tweet a track</strong></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_3_02_pm.png"></a></p>
+<p><em>.iconmusic-spotify-connect-btn{background-position:-4431px -0px;height:32px;width:179px}</p>
+<p>.iconmusic-player-source-rdio{background-position:-2801px -0px;height:19px;width:30px}</p>
+<p>.iconmusic-player-source-itunes{background-position:-2751px -0px;height:19px;width:30px}</p>
+<p>.iconmusic-player-source-soundcloud{background-position:- 2851px -0px;height:14px;width:92px}</p>
+<p>.iconmusic-player-source-vevo{background-position:-2963px -0px;height:9px;width:53px}</p>
+<p>.youtube-vid player{position:absolute;padding:10px;height:200px}</em></p>
+<p>While this is in no way a finalized &#8220;feature set&#8221; for the Twitter #Music app, it is more information than we had before and confirmation of what we&#8217;ve seen others testing out on Twitter, which are basically embedded music players in Twitter Cards. And of course, since this is a Twitter-owned page, so the code speaks for itself.</p>
+<p>Here&#8217;s a look at what the player will look like, again referenced in the CSS for the page:</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2013/04/youssef_24584356587078_small.png"></a></p>
+<p>Here&#8217;s that on/off switch for playing tracks:</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2013/04/youssef_24584359038372_small.png"></a></p>
+<p>These are some random graphical elements that point to what services will be included as well:</p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_3_18_pm.png"></a></p>
+<p><a target="_blank" href="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_3_20_pm.png"></a>In addition to all of this, it looks like Twitter will be bringing in bios of musicians, perhaps from their Twitter profiles. All of this integration makes complete sense and perhaps the selling of music will be controlled by the artist themselves. If you&#8217;re listening to a track that someone shared from Spotify and want to purchase it immediately, it doesn&#8217;t matter which service Twitter hooks into, there&#8217;s a good chance that you&#8217;re going to follow through with your purchase. This could mean big bucks for Twitter as it marches towards going public, perhaps as early as next year.</p>
+<p>This all gives us more of a sense of what the #Music service itself might look like, even though we have no screenshots to prove it. Much in the way that Twitter set up <a href="http://techcrunch.com/2012/06/10/twitter-hashtag-pages/">&#8220;hashtag pages&#8221; for brands such as NASCAR</a>, Twitter is taking all of the data that it&#8217;s currently collecting and just showing it off in a different, more consumable way. If #Music becomes a full-featured service that artists can use to sell music, there&#8217;s a whole host of distribution metrics that Twitter is sitting on, which also means big bucks.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798103/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=GHUWN63rVqk:waqipqEDdcg:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=GHUWN63rVqk:waqipqEDdcg:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=GHUWN63rVqk:waqipqEDdcg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=GHUWN63rVqk:waqipqEDdcg:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=GHUWN63rVqk:waqipqEDdcg:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=GHUWN63rVqk:waqipqEDdcg:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=GHUWN63rVqk:waqipqEDdcg:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=GHUWN63rVqk:waqipqEDdcg:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/GHUWN63rVqk" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/code-in-twitter-musics-placeholder-page-shows-web-interface-track-purchasing-charts-and-integrations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_2_18_pm.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_2_18_pm.png?w=150" medium="image">
+			<media:title type="html">Screenshot_4_12_13_2_18_PM</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/b0be7dc9dffd2413ec89e6ebb54da179?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">thatdrew</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_3_02_pm.png" medium="image">
+			<media:title type="html">Screenshot_4_12_13_3_02_PM</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/youssef_24584356587078_small.png" medium="image">
+			<media:title type="html">youssef_24584356587078_small</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/youssef_24584359038372_small.png" medium="image">
+			<media:title type="html">youssef_24584359038372_small</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_3_18_pm.png?w=640" medium="image">
+			<media:title type="html">Screenshot_4_12_13_3_18_PM</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/screenshot_4_12_13_3_20_pm.png" medium="image">
+			<media:title type="html">Screenshot_4_12_13_3_20_PM</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/code-in-twitter-musics-placeholder-page-shows-web-interface-track-purchasing-charts-and-integrations/</feedburner:origLink></item>
+		<item>
+		<title>This Week On The TechCrunch Gadgets Podcast: Facebook Phone (Again) And Bitcoin</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/8N5E1cKm9I4/</link>
+		<comments>http://techcrunch.com/2013/04/12/this-week-on-the-techcrunch-gadgets-podcast-facebook-phone-again-and-bitcoin/#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 22:00:46 +0000</pubDate>
+		<dc:creator>John Biggs</dc:creator>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[gadgets podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[facebook]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=797811</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/gadgets130412.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gadgets130412" style="float: left; margin: 0 10px 7px 0;" />This week on the <a href="http://techcrunch.com/tag/techcrunch-gadgets-podcast/">TechCrunch Gadgets Podcast</a> we talk about the launch of Facebook Fone and my own horrible attempts at becoming a bitcoin billionaire.
+]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/gadgets130412.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="gadgets130412" style="float: left; margin: 0 10px 7px 0;" /><p>This week on the <a href="http://techcrunch.com/tag/techcrunch-gadgets-podcast/">TechCrunch Gadgets Podcast</a> we talk about the launch of Facebook Fone and my own horrible attempts at becoming a bitcoin billionaire.</p>
+<p>We invite you to enjoy our weekly podcasts every Friday at 3pm Eastern and noon Pacific.</p>
+<iframe style="border: none" src="http://html5-player.libsyn.com/embed/episode/id/2284528/height/360/width/640/theme/legacy/direction/no/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/" height="360" width="640" scrolling="no"></iframe>
+<p><a target="_blank" href="http://traffic.libsyn.com/techcrunchgadgets/podcast.aif">Click here to download an MP3 of this show.</a><br />
+You can subscribe to the <a target="_blank" href="http://feeds.feedburner.com/TCGadgetsPodcast">show via RSS</a>.<br />
+<a target="_blank" href="https://itunes.apple.com/us/podcast/techcrunch-gadgets-podcast/id626546350?mt=2">Subscribe in iTunes</a></p>
+<p>Intro Music by <a target="_blank" href="http://barr26.com">Rick Barr</a>.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/797811/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=8N5E1cKm9I4:Jn4YK0_l7ik:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=8N5E1cKm9I4:Jn4YK0_l7ik:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=8N5E1cKm9I4:Jn4YK0_l7ik:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=8N5E1cKm9I4:Jn4YK0_l7ik:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=8N5E1cKm9I4:Jn4YK0_l7ik:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=8N5E1cKm9I4:Jn4YK0_l7ik:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=8N5E1cKm9I4:Jn4YK0_l7ik:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=8N5E1cKm9I4:Jn4YK0_l7ik:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/8N5E1cKm9I4" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/this-week-on-the-techcrunch-gadgets-podcast-facebook-phone-again-and-bitcoin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/gadgets130412.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/gadgets130412.jpg?w=150" medium="image">
+			<media:title type="html">gadgets130412</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c0a943f484a32e62ed3bc81dd0dd25da?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">john</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/this-week-on-the-techcrunch-gadgets-podcast-facebook-phone-again-and-bitcoin/</feedburner:origLink></item>
+		<item>
+		<title>Designer Nicholas Felton Leaves Facebook After Pioneering Timeline Overhaul</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/DOc0umBlSlQ/</link>
+		<comments>http://techcrunch.com/2013/04/12/designer-nicholas-felton-leaves-facebook-after-pioneering-timeline-overhaul/#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 21:53:50 +0000</pubDate>
+		<dc:creator>Kim-Mai Cutler</dc:creator>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=798092</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/felton.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="felton" style="float: left; margin: 0 10px 7px 0;" />Nicholas Felton, who came to fame through many super-detailed infographics and reports about his life as quantified through data, is leaving Facebook almost two years after being acq-hired to work on projects like Timeline. His early work, which compiled data on things like all the songs he had listened to or everywhere he had been in a single year into a &#8220;Feltron Annual Report,&#8221; became the basis for Timeline. In a sense, all the profiles of Facebook&#8217;s roughly 1 billion users are all like living, breathing annual &#8220;Feltron&#8221; reports. He posted on his page today: On April 19, 2011 I walked into the Palo Alto Facebook office and began contributing to the timeline project. Two years, many late nights and a few launch celebrations later I will be moving on. The opportunity to help mold a service of such importance to so many people has been a high point in my professional career. I&#8217;m extremely proud of the projects I worked on, grateful to the teams that built them and confident in the products to come. Facebook acq-hired Felton’s startup Daytum in April of 2011 and Felton and his co-founder Ryan Case moved from New York to Palo Alto. When Facebook&#8217;s vice president of product Chris Cox unveiled Timeline, he said he was inspired by seeing Felton&#8217;s annual reports: &#8220;14 pages. One year. One book. It was hard to call it anything other than what it really was — art.&#8221; He went on, “We had one reaction: we have to try to hire this guy.” There&#8217;s no word on what Felton be working on next yet.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/felton.jpg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="felton" style="float: left; margin: 0 10px 7px 0;" /><p><a href="http://techcrunch.com/2013/04/12/designer-nicholas-felton-leaves-facebook-after-pioneering-timeline-overhaul/screen-shot-2013-04-12-at-2-43-31-pm/" rel="attachment wp-att-798093"></a></p>
+<p>Nicholas Felton, who came to fame <a target="_blank" href="http://bits.blogs.nytimes.com/2010/02/09/an-annual-report-on-one-mans-life/">through many super-detailed infographics and reports about his life</a> as quantified through data, is leaving Facebook almost two years after being acq-hired to work on projects like Timeline.  </p>
+<p>His early work, which compiled data on things like all the songs he had listened to or everywhere he had been in a single year into a &#8220;Feltron Annual Report,&#8221; became the basis for Timeline. In a sense, all the profiles of Facebook&#8217;s roughly 1 billion users are all like living, breathing annual &#8220;Feltron&#8221; reports.</p>
+<p><a target="_blank" href="https://www.facebook.com/nicholas.felton/posts/10151848462876982">He posted on his page today:<br />
+</a></p>
+<blockquote><p>On April 19, 2011 I walked into the Palo Alto Facebook office and began contributing to the timeline project. Two years, many late nights and a few launch celebrations later I will be moving on.</p>
+<p>The opportunity to help mold a service of such importance to so many people has been a high point in my professional career. I&#8217;m extremely proud of the projects I worked on, grateful to the teams that built them and confident in the products to come. </p></blockquote>
+<p>Facebook <a href="http://techcrunch.com/2011/04/27/facebook-acq-hires-daytum/">acq-hired Felton’s startup Daytum in April of 2011</a> and Felton and his co-founder Ryan Case moved from New York to Palo Alto.</p>
+<p>When Facebook&#8217;s <a href="http://techcrunch.com/2011/09/22/facebook-timeline-birth/">vice president of product Chris Cox unveiled Timeline</a>, he said he was inspired by seeing Felton&#8217;s annual reports: &#8220;14 pages. One year. One book. It was hard to call it anything other than what it really was — art.&#8221; </p>
+<p>He went on, “We had one reaction: we have to try to hire this guy.”</p>
+<p>There&#8217;s no word on what Felton be working on next yet.</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/798092/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=DOc0umBlSlQ:RviZ2BVtmpM:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=DOc0umBlSlQ:RviZ2BVtmpM:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=DOc0umBlSlQ:RviZ2BVtmpM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=DOc0umBlSlQ:RviZ2BVtmpM:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=DOc0umBlSlQ:RviZ2BVtmpM:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=DOc0umBlSlQ:RviZ2BVtmpM:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=DOc0umBlSlQ:RviZ2BVtmpM:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=DOc0umBlSlQ:RviZ2BVtmpM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/DOc0umBlSlQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/designer-nicholas-felton-leaves-facebook-after-pioneering-timeline-overhaul/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/felton.jpg?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/felton.jpg?w=150" medium="image">
+			<media:title type="html">felton</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/c4dad53149dd9c712936e1b27c1c1e9f?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">kimmaicutler</media:title>
+		</media:content>
+
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-12-at-2-43-31-pm.png?w=300" medium="image">
+			<media:title type="html">Screen Shot 2013-04-12 at 2.43.31 PM</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/designer-nicholas-felton-leaves-facebook-after-pioneering-timeline-overhaul/</feedburner:origLink></item>
+		<item>
+		<title>Where In The World Are The 1.2M Raspberry Pi Microcomputers? Mostly In The West - But Pi Founders Want More Spread This Year</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/r1z7zf7gF3Q/</link>
+		<comments>http://techcrunch.com/2013/04/12/raspberry-pi-global-sales-spread/#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 21:48:14 +0000</pubDate>
+		<dc:creator>Natasha Lomas</dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Raspberry Pi]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[developing world]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=797751</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-12-at-17-23-12.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="rastrack" style="float: left; margin: 0 10px 7px 0;" />One to 1.2 million Raspberry Pi microcomputers have shipped since the device's launch just over a year ago but where in the world are they located? While it's impossible to say exactly where each Pi has ended up, the vast majority sold to-date have shipped to developed nations -- including the U.S. and the U.K. But the Pi Foundation wants to get more developing nations buying into Pi. ]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-12-at-17-23-12.png?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="rastrack" style="float: left; margin: 0 10px 7px 0;" /><p>One to 1.2 million <a href="http://techcrunch.com/tag/raspberry-pi/">Raspberry Pi microcomputers</a> have shipped since the device&#8217;s launch just over a year ago but where in the world are they located? While it&#8217;s impossible to say exactly where* each Pi has ended up, the vast majority of the devices sold to-date have shipped to developed nations &#8212; including the U.S. and the U.K. But the potential of the Pi as a low cost learning-focused computing platform for developing countries remains very exciting.</p>
+<p>Last week the U.K.-based <a target="_blank" href="http://www.raspberrypi.org/">Pi Foundation</a> blogged about a volunteer group that had taken a suitcase-worth of Pis to a school in rural Cameroon where they are being used to <a href="http://techcrunch.com/2013/04/05/raspberry-pi-microcomputers-are-powering-a-school-computing-lab-in-rural-cameroon/">power a computer class</a>. At $35 apiece, and even $25 for the Model A Pi, the Pi does a lot to break down the affordability barrier to computing &#8212; although it still requires additional peripherals (screen, keyboard, mouse) to turn it into a fully fledged computer terminal.</p>
+<p>Asked about the global sales distribution of the Pi, the Foundation provided TechCrunch with some &#8220;very rough&#8221;, internal estimates of Pi sales to developing/emerging nations &#8212; and the figures (listed below) suggest that the first million+ Pi sales have overwhelmingly been powered by wealthier nations.</p>
+<p>The most Pi-populous country on the developing/emerging nations list (India) can lay claim to roughly 0.5%-0.6% of total global Pi sales to-date, according to this data. While, collectively, these listed nations make up between only 1.4% and 1.7% of total global Pi shipments. So more than 98% of the Pi pie has been sold to the world&#8217;s wealthiest countries thus far.</p>
+<table class=" aligncenter" width="153" border="0" cellspacing="0" cellpadding="0">
+<col width="89" />
+<col width="64" />
+<tbody>
+<tr>
+<td width="89" height="21">India</td>
+<td width="64">6000</td>
+</tr>
+<tr>
+<td height="21">Indonesia</td>
+<td>1200</td>
+</tr>
+<tr>
+<td height="21">Lao P.Dem.R.</td>
+<td>600</td>
+</tr>
+<tr>
+<td height="21">Malaysia</td>
+<td>3400</td>
+</tr>
+<tr>
+<td height="21">Philippines</td>
+<td>500</td>
+</tr>
+<tr>
+<td height="21">Pakistan</td>
+<td>100</td>
+</tr>
+<tr>
+<td height="21">Sri Lanka</td>
+<td>50</td>
+</tr>
+<tr>
+<td height="21">Thailand</td>
+<td>2000</td>
+</tr>
+<tr>
+<td height="21">Vietnam</td>
+<td>500</td>
+</tr>
+<tr>
+<td height="21">Egypt</td>
+<td>150</td>
+</tr>
+<tr>
+<td height="21">South Africa</td>
+<td>2000</td>
+</tr>
+<tr>
+<td height="21">Tunisia</td>
+<td>200</td>
+</tr>
+<tr>
+<td height="21">Zimbabwe</td>
+<td>50</td>
+</tr>
+<tr>
+<td height="21">Bolivia</td>
+<td>100</td>
+</tr>
+<tr>
+<td height="21">Chile</td>
+<td>400</td>
+</tr>
+<tr>
+<td height="21">Colombia</td>
+<td>20</td>
+</tr>
+<tr>
+<td height="21">Peru</td>
+<td>50</td>
+</tr>
+</tbody>
+</table>
+<p>There are also, of course, scores of (apparently) Pi-less developing nations that do not make this list at all. One of which &#8211; the Kingdom of Bhutan &#8212; does actually have a princely one Pi sale to its name at present, according to the Foundation. &#8220;It&#8217;s a server for Khan Academy Lite in a school, whose 64GB SD card costs more than twice what the Pi cost,&#8221; the Foundation&#8217;s Liz Upton tells TechCrunch. &#8220;We&#8217;re working on getting more out there!&#8221;</p>
+<p>It&#8217;s likely that some of the Pis shipped to developed countries have found their way to less wealthy nations &#8211; via charities and other &#8216;suitcase schemes&#8217; such as the Cameroon school project mentioned above which took out 30 Pis. Or via individual buyers seeking to avoid high import tariffs that can push up the price of bulk commercial imports (such as in Brazil).</p>
+<p>But even factoring in some extra spread, there&#8217;s no doubt the Pi is predominantly disrupting the living rooms and schools of the developed world. Which, it should be noted, was the <a href="http://techcrunch.com/2012/10/14/raspberry-pi-the-small-computer-with-the-big-ambition-to-get-kids-coding-again/">original ambition of the Pi founders</a> &#8212; specifically they wanted to get more <em>U.K.</em> kids coding, following a national slump in interest in computer science education.</p>
+<p>But the Pi&#8217;s unexpected popularity has generated additional momentum for the project &#8212; and even grander geographical ambitions.</p>
+<p>&#8220;We&#8217;re weighted very strongly towards the developed world,&#8221; admits Pi founder Eben Upton, when he sends the data, but he says that this spread &#8212; or rather concentration &#8212; is something the Foundation is keen to work on. &#8220;A major challenge for us this year is to find ways of making Pi more available, and more appealing, in these [developing/emerging] markets,&#8221; he says.</p>
+<p>The Pi hardware seems to offer huge potential to the developing world &#8212; being cheaper than most mobile phones, let alone most smartphones &#8212; the <a href="http://techcrunch.com/2013/02/26/call-for-30-smartphones-to-connect-the-next-wave-of-mobile-users-from-emerging-markets/">other device touted</a> as the likely first computing experience for connecting the “next billions” to the Internet. The Pi is also cheaper than another Linux-based low cost learning-focused computing project: the one laptop per child’s <a target="_blank" href="http://one.laptop.org/">XO laptop</a>. And it has an advantage over general Linux PCs or Android tablets in being conceived and supported as first and foremost a learning environment, making it well-suited to push into schools.</p>
+<p>As for low cost PCs in general, the netbook category &#8212; still more expensive than Pi &#8212; is facing extinction by 2015, according to analyst IHS iSuppli, which has put out a forecast today predicting zero netbook shipments within two years, and just 3.97 million units globally this year.</p>
+<p>As the <a href="http://techcrunch.com/2013/04/04/gartner-2012-2017-devices-forecast/">traditional desktop PC declines</a>, it&#8217;s great to see the rise of a new computing device that, unlike the slick consumer tablets <em>du  jour</em>, is intended to encourage hacking, tinkering and learning about hardware and software, rather than passive consumption of prepackaged apps &#8212; in the <a target="_blank" href="http://en.wikipedia.org/wiki/Sinclair_Spectrum">best tradition of the home computer</a>. And a device which also, thanks to its tiny price-tag, has such huge disruptive potential.</p>
+<p>So here&#8217;s hoping a lot more of the next million+ Pis end up very far from home indeed.</p>
+<p>*At the time of writing, the <a target="_blank" href="http://www.raspberrypi.org/archives/1298">Rastrack map</a>, a <a target="_blank" href="http://rastrack.ryanteck.org.uk/">project</a> to get Pi-owners to report the location of their Pi and plot the owner locations on a map, was not accessible. The map is used in the feature image at the top of this post, showing a snapshot of self-reported Pi distribution in May last year</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/797751/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=r1z7zf7gF3Q:zGapveWRA-4:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=r1z7zf7gF3Q:zGapveWRA-4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=r1z7zf7gF3Q:zGapveWRA-4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=r1z7zf7gF3Q:zGapveWRA-4:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=r1z7zf7gF3Q:zGapveWRA-4:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=r1z7zf7gF3Q:zGapveWRA-4:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=r1z7zf7gF3Q:zGapveWRA-4:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=r1z7zf7gF3Q:zGapveWRA-4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/r1z7zf7gF3Q" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/raspberry-pi-global-sales-spread/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-12-at-17-23-12.png?w=150" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/screen-shot-2013-04-12-at-17-23-12.png?w=150" medium="image">
+			<media:title type="html">rastrack</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/68a02f90ad0a6349a7b852ddce6f93e4?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">nelomas</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/raspberry-pi-global-sales-spread/</feedburner:origLink></item>
+		<item>
+		<title>Ask A VC: Javelin Venture Partners' Noah Doyle On The Next Innovations In Mapping And More</title>
+		<link>http://feedproxy.google.com/~r/Techcrunch/~3/5RsKp3v-_RY/</link>
+		<comments>http://techcrunch.com/2013/04/12/ask-a-vc-javelin-venture-partners-noah-doyle-on-the-next-innovations-in-mapping-and-more/#comments</comments>
+		<pubDate>Fri, 12 Apr 2013 21:45:00 +0000</pubDate>
+		<dc:creator>Leena Rao</dc:creator>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Video]]></category>
+
+		<guid isPermaLink="false">http://techcrunch.com/?p=797922</guid>
+		<description><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/noah-1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="noah-1" style="float: left; margin: 0 10px 7px 0;" />In this week's Ask A VC show, Javelin Venture Partners' Managing Director <a target="_blank" href="http://javelinvp.com/content/team.html">Noah Doyle</a> sat down to talk with us about why he started a venture firm, where the next innovations in mapping are coming from and more.
+
+Doyle has extensive experience in the online mapping world—he directed the enterprise product line for Google's geospatial products, including Google Earth and Google Maps. Prior to Google, Noah managed the Marketing Strategy and Corporate Development functions at Keyhole, a company that created the first Web-hosted digital earth model and was acquired by Google in 2004. Doyle explains to us that some of the new technologies he's excited about include layering social data across maps.]]></description>
+				<content:encoded><![CDATA[<img width="100" height="70" src="http://tctechcrunch2011.files.wordpress.com/2013/04/noah-1.jpeg?w=100&amp;h=70&amp;crop=1" class="attachment-tc-carousel-river-thumb wp-post-image" alt="noah-1" style="float: left; margin: 0 10px 7px 0;" /><script type="text/javascript" src="http://pshared.5min.com/Scripts/PlayerSeed.js?sid=577&#038;width=640&#038;height=450&#038;colorPallet=%230A9600&#038;hasCompanion=false&#038;relatedMode=2&#038;videoControlDisplayColor=%23000000&#038;playList=517718507&#038;shuffle=0&#038;videoGroupID=133503&#038;autoStart=false&#038;playerActions=16407"></script>
+<p>In this week&#8217;s Ask A VC show, Javelin Venture Partners&#8217; Managing Director <a target="_blank" href="http://javelinvp.com/content/team.html">Noah Doyle</a> sat down to talk with us about why he started a venture firm, where the next innovations in mapping are coming from and more.</p>
+<p>Doyle has extensive experience in the online mapping world—he directed the enterprise product line for Google&#8217;s geospatial products, including Google Earth and Google Maps. Prior to Google, Noah managed the Marketing Strategy and Corporate Development functions at Keyhole, a company that created the first Web-hosted digital earth model and was acquired by Google in 2004. Doyle explains to us that some of the new technologies he&#8217;s excited about include layering social data across maps.</p>
+<p>Check out the video above for more!</p>
+<br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/tctechcrunch2011.wordpress.com/797922/"></a> <div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5RsKp3v-_RY:xw03879EusY:2mJPEYqXBVI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5RsKp3v-_RY:xw03879EusY:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5RsKp3v-_RY:xw03879EusY:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5RsKp3v-_RY:xw03879EusY:-BTjWOF_DHI"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=5RsKp3v-_RY:xw03879EusY:-BTjWOF_DHI" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5RsKp3v-_RY:xw03879EusY:D7DqB2pKExk"><img src="http://feeds.feedburner.com/~ff/Techcrunch?i=5RsKp3v-_RY:xw03879EusY:D7DqB2pKExk" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/Techcrunch?a=5RsKp3v-_RY:xw03879EusY:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/Techcrunch/~4/5RsKp3v-_RY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://techcrunch.com/2013/04/12/ask-a-vc-javelin-venture-partners-noah-doyle-on-the-next-innovations-in-mapping-and-more/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://tctechcrunch2011.files.wordpress.com/2013/04/noah-1.jpeg?w=120" />
+		<media:content url="http://tctechcrunch2011.files.wordpress.com/2013/04/noah-1.jpeg?w=120" medium="image">
+			<media:title type="html">noah-1</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/bbce6c3c48f821c81c019600a5589ae6?s=96&amp;d=identicon&amp;r=G" medium="image">
+			<media:title type="html">leena</media:title>
+		</media:content>
+	<feedburner:origLink>http://techcrunch.com/2013/04/12/ask-a-vc-javelin-venture-partners-noah-doyle-on-the-next-innovations-in-mapping-and-more/</feedburner:origLink></item>
+	</channel>
+</rss>
