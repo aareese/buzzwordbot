@@ -1,0 +1,30 @@
+{
+  "name": "buzzwordbot",
+  "version": "0.0.1",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index.js",
+  "author": "Alyssa Reese <alyssa.reese@gmail.com>",
+  "engines": [
+    "node"
+  ],
+  "scripts": {
+    "test": "make test"
+  },
+  "description": "Because we all need more buzzword news.",
+  "keywords": [
+    "twitter",
+    "buzzwords",
+    "bot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aareese/buzzwordbot.git"
+  },
+  "dependencies": {
+    "mocha": ">=1.7.4",
+    "underscore": ">=1.4.3",
+    "redis": ">=0.8.2"
+  }
+}
