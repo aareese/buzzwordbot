@@ -31,8 +31,8 @@ describe('RSSReader', function() {
           feedUrls: ['http://example.com/foo.rss', 'http://example.com/bar.rss']
         }),
         feeds = {
-          'http://example.com/foo.rss': fs.readFileSync('./test/fixtures/fox.rss').toString(),
-          'http://example.com/bar.rss': fs.readFileSync('./test/fixtures/cnn.rss').toString()
+          'http://example.com/foo.rss': fs.readFileSync('./test/fixtures/techcrunch.rss').toString(),
+          'http://example.com/bar.rss': fs.readFileSync('./test/fixtures/techcrunch.rss').toString()
         };
 
       // return our fixture rather than connecting to
@@ -42,8 +42,7 @@ describe('RSSReader', function() {
       };
       
       rssreader.readAllFeeds(function(err, articles) {
-        assert.equal(articles[0].title, "Arwa Damon: Freeze-frame moments");
-        assert.equal(articles[articles.length - 1].title, "Adorable Alert: Newborn Pups");
+        assert.equal(articles[0].title, "Bitcoin Miners Are Racking Up $150,000 A Day In Power Consumption Alone");
         done();
       });
     });
