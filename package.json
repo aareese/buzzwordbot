@@ -32,6 +32,7 @@
     "feedparser": ">=0.15.0",
     "request": ">=2.9.203",
     "twitter": ">=0.1.18",
-    "optimist": ">=0.3.4"
+    "optimist": ">=0.3.4",
+    "redis-url": "0.1.0"
   }
 }
