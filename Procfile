@@ -1,1 +1,1 @@
-nostrabot: node ./bin/nostrabot.js --daemon
+buzzwordbot: node ./bin/buzzwordbot.js --daemon
